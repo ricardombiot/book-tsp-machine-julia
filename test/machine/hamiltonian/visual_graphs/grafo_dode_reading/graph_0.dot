@@ -1,0 +1,1148 @@
+digraph G {
+subgraph cluster_info {
+        subgraph cluster_18 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_364 {
+label = "Action: 364"step_K3017964 [label=<3<BR /><FONT POINT-SIZE="8">ID: K3017964</FONT><BR /><FONT POINT-SIZE="8">Parents: K2849145</FONT><BR /><FONT POINT-SIZE="8">Sons: K3185582</FONT>>]
+step_K3019964 [label=<3<BR /><FONT POINT-SIZE="8">ID: K3019964</FONT><BR /><FONT POINT-SIZE="8">Parents: K2851550,K2852350</FONT><BR /><FONT POINT-SIZE="8">Sons: K3185582</FONT>>]
+}
+subgraph cluster_act_364 {
+label = "Action: 364"step_K3017964 [label=<3<BR /><FONT POINT-SIZE="8">ID: K3017964</FONT><BR /><FONT POINT-SIZE="8">Parents: K2849145</FONT><BR /><FONT POINT-SIZE="8">Sons: K3185582</FONT>>]
+step_K3019964 [label=<3<BR /><FONT POINT-SIZE="8">ID: K3019964</FONT><BR /><FONT POINT-SIZE="8">Parents: K2851550,K2852350</FONT><BR /><FONT POINT-SIZE="8">Sons: K3185582</FONT>>]
+}
+subgraph cluster_act_365 {
+label = "Action: 365"step_K3017565 [label=<4<BR /><FONT POINT-SIZE="8">ID: K3017565</FONT><BR /><FONT POINT-SIZE="8">Parents: K2848744</FONT><BR /><FONT POINT-SIZE="8">Sons: K3185983</FONT>>]
+step_K3020765 [label=<4<BR /><FONT POINT-SIZE="8">ID: K3020765</FONT><BR /><FONT POINT-SIZE="8">Parents: K2852352,K2853152</FONT><BR /><FONT POINT-SIZE="8">Sons: K3185983</FONT>>]
+}
+subgraph cluster_act_374 {
+label = "Action: 374"step_K3021974 [label=<13<BR /><FONT POINT-SIZE="8">ID: K3021974</FONT><BR /><FONT POINT-SIZE="8">Parents: K2854355</FONT><BR /><FONT POINT-SIZE="8">Sons: K3189583</FONT>>]
+step_K3021174 [label=<13<BR /><FONT POINT-SIZE="8">ID: K3021174</FONT><BR /><FONT POINT-SIZE="8">Parents: K2852753,K2855953</FONT><BR /><FONT POINT-SIZE="8">Sons: K3189583</FONT>>]
+}
+subgraph cluster_act_368 {
+label = "Action: 368"step_K3018768 [label=<7<BR /><FONT POINT-SIZE="8">ID: K3018768</FONT><BR /><FONT POINT-SIZE="8">Parents: K2854747</FONT><BR /><FONT POINT-SIZE="8">Sons: K3187182</FONT>>]
+step_K3019568 [label=<7<BR /><FONT POINT-SIZE="8">ID: K3019568</FONT><BR /><FONT POINT-SIZE="8">Parents: K2855149,K2851949</FONT><BR /><FONT POINT-SIZE="8">Sons: K3187182</FONT>>]
+}
+subgraph cluster_act_374 {
+label = "Action: 374"step_K3021974 [label=<13<BR /><FONT POINT-SIZE="8">ID: K3021974</FONT><BR /><FONT POINT-SIZE="8">Parents: K2854355</FONT><BR /><FONT POINT-SIZE="8">Sons: K3189583</FONT>>]
+step_K3021174 [label=<13<BR /><FONT POINT-SIZE="8">ID: K3021174</FONT><BR /><FONT POINT-SIZE="8">Parents: K2852753,K2855953</FONT><BR /><FONT POINT-SIZE="8">Sons: K3189583</FONT>>]
+}
+subgraph cluster_act_365 {
+label = "Action: 365"step_K3017565 [label=<4<BR /><FONT POINT-SIZE="8">ID: K3017565</FONT><BR /><FONT POINT-SIZE="8">Parents: K2848744</FONT><BR /><FONT POINT-SIZE="8">Sons: K3185983</FONT>>]
+step_K3020765 [label=<4<BR /><FONT POINT-SIZE="8">ID: K3020765</FONT><BR /><FONT POINT-SIZE="8">Parents: K2852352,K2853152</FONT><BR /><FONT POINT-SIZE="8">Sons: K3185983</FONT>>]
+}
+subgraph cluster_act_368 {
+label = "Action: 368"step_K3018768 [label=<7<BR /><FONT POINT-SIZE="8">ID: K3018768</FONT><BR /><FONT POINT-SIZE="8">Parents: K2854747</FONT><BR /><FONT POINT-SIZE="8">Sons: K3187182</FONT>>]
+step_K3019568 [label=<7<BR /><FONT POINT-SIZE="8">ID: K3019568</FONT><BR /><FONT POINT-SIZE="8">Parents: K2855149,K2851949</FONT><BR /><FONT POINT-SIZE="8">Sons: K3187182</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 18";
+        }
+
+        subgraph cluster_2 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_55 {
+label = "Action: 55"step_K330055 [label=<14<BR /><FONT POINT-SIZE="8">ID: K330055</FONT><BR /><FONT POINT-SIZE="8">Parents: K160026</FONT><BR /><FONT POINT-SIZE="8">Sons: K501674,K501676</FONT>>]
+}
+subgraph cluster_act_47 {
+label = "Action: 47"step_K330047 [label=<6<BR /><FONT POINT-SIZE="8">ID: K330047</FONT><BR /><FONT POINT-SIZE="8">Parents: K160026</FONT><BR /><FONT POINT-SIZE="8">Sons: K498477,K498468</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 2";
+        }
+
+        subgraph cluster_16 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_330 {
+label = "Action: 330"step_K2681530 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2681530</FONT><BR /><FONT POINT-SIZE="8">Parents: K2513904</FONT><BR /><FONT POINT-SIZE="8">Sons: K2851949</FONT>>]
+}
+subgraph cluster_act_336 {
+label = "Action: 336"step_K2686736 [label=<15<BR /><FONT POINT-SIZE="8">ID: K2686736</FONT><BR /><FONT POINT-SIZE="8">Parents: K2519117</FONT><BR /><FONT POINT-SIZE="8">Sons: K2854355</FONT>>]
+step_K2687936 [label=<15<BR /><FONT POINT-SIZE="8">ID: K2687936</FONT><BR /><FONT POINT-SIZE="8">Parents: K2517120</FONT><BR /><FONT POINT-SIZE="8">Sons: K2854355</FONT>>]
+}
+subgraph cluster_act_332 {
+label = "Action: 332"step_K2681932 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2681932</FONT><BR /><FONT POINT-SIZE="8">Parents: K2513505</FONT><BR /><FONT POINT-SIZE="8">Sons: K2852753</FONT>>]
+}
+subgraph cluster_act_333 {
+label = "Action: 333"step_K2685533 [label=<12<BR /><FONT POINT-SIZE="8">ID: K2685533</FONT><BR /><FONT POINT-SIZE="8">Parents: K2517914</FONT><BR /><FONT POINT-SIZE="8">Sons: K2853152</FONT>>]
+}
+subgraph cluster_act_323 {
+label = "Action: 323"step_K2685523 [label=<2<BR /><FONT POINT-SIZE="8">ID: K2685523</FONT><BR /><FONT POINT-SIZE="8">Parents: K2517114,K2517914</FONT><BR /><FONT POINT-SIZE="8">Sons: K2849145</FONT>>]
+}
+subgraph cluster_act_338 {
+label = "Action: 338"step_K2687538 [label=<17<BR /><FONT POINT-SIZE="8">ID: K2687538</FONT><BR /><FONT POINT-SIZE="8">Parents: K2519919</FONT><BR /><FONT POINT-SIZE="8">Sons: K2855149</FONT>>]
+}
+subgraph cluster_act_331 {
+label = "Action: 331"step_K2684731 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2684731</FONT><BR /><FONT POINT-SIZE="8">Parents: K2513912</FONT><BR /><FONT POINT-SIZE="8">Sons: K2852350</FONT>>]
+step_K2687531 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2687531</FONT><BR /><FONT POINT-SIZE="8">Parents: K2519919,K2519119</FONT><BR /><FONT POINT-SIZE="8">Sons: K2852352,K2852350</FONT>>]
+step_K2683931 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2683931</FONT><BR /><FONT POINT-SIZE="8">Parents: K2513510</FONT><BR /><FONT POINT-SIZE="8">Sons: K2852352</FONT>>]
+}
+subgraph cluster_act_331 {
+label = "Action: 331"step_K2684731 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2684731</FONT><BR /><FONT POINT-SIZE="8">Parents: K2513912</FONT><BR /><FONT POINT-SIZE="8">Sons: K2852350</FONT>>]
+step_K2687531 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2687531</FONT><BR /><FONT POINT-SIZE="8">Parents: K2519919,K2519119</FONT><BR /><FONT POINT-SIZE="8">Sons: K2852352,K2852350</FONT>>]
+step_K2683931 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2683931</FONT><BR /><FONT POINT-SIZE="8">Parents: K2513510</FONT><BR /><FONT POINT-SIZE="8">Sons: K2852352</FONT>>]
+}
+subgraph cluster_act_337 {
+label = "Action: 337"step_K2687137 [label=<16<BR /><FONT POINT-SIZE="8">ID: K2687137</FONT><BR /><FONT POINT-SIZE="8">Parents: K2515518</FONT><BR /><FONT POINT-SIZE="8">Sons: K2854747</FONT>>]
+step_K2686337 [label=<16<BR /><FONT POINT-SIZE="8">ID: K2686337</FONT><BR /><FONT POINT-SIZE="8">Parents: K2519916</FONT><BR /><FONT POINT-SIZE="8">Sons: K2854747</FONT>>]
+}
+subgraph cluster_act_329 {
+label = "Action: 329"step_K2683129 [label=<8<BR /><FONT POINT-SIZE="8">ID: K2683129</FONT><BR /><FONT POINT-SIZE="8">Parents: K2514708</FONT><BR /><FONT POINT-SIZE="8">Sons: K2851550</FONT>>]
+}
+subgraph cluster_act_322 {
+label = "Action: 322"step_K2683122 [label=<1<BR /><FONT POINT-SIZE="8">ID: K2683122</FONT><BR /><FONT POINT-SIZE="8">Parents: K2515508,K2514708</FONT><BR /><FONT POINT-SIZE="8">Sons: K2848744</FONT>>]
+}
+subgraph cluster_act_340 {
+label = "Action: 340"step_K2687540 [label=<19<BR /><FONT POINT-SIZE="8">ID: K2687540</FONT><BR /><FONT POINT-SIZE="8">Parents: K2519119</FONT><BR /><FONT POINT-SIZE="8">Sons: K2855953</FONT>>]
+}
+subgraph cluster_act_337 {
+label = "Action: 337"step_K2687137 [label=<16<BR /><FONT POINT-SIZE="8">ID: K2687137</FONT><BR /><FONT POINT-SIZE="8">Parents: K2515518</FONT><BR /><FONT POINT-SIZE="8">Sons: K2854747</FONT>>]
+step_K2686337 [label=<16<BR /><FONT POINT-SIZE="8">ID: K2686337</FONT><BR /><FONT POINT-SIZE="8">Parents: K2519916</FONT><BR /><FONT POINT-SIZE="8">Sons: K2854747</FONT>>]
+}
+subgraph cluster_act_331 {
+label = "Action: 331"step_K2684731 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2684731</FONT><BR /><FONT POINT-SIZE="8">Parents: K2513912</FONT><BR /><FONT POINT-SIZE="8">Sons: K2852350</FONT>>]
+step_K2687531 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2687531</FONT><BR /><FONT POINT-SIZE="8">Parents: K2519919,K2519119</FONT><BR /><FONT POINT-SIZE="8">Sons: K2852352,K2852350</FONT>>]
+step_K2683931 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2683931</FONT><BR /><FONT POINT-SIZE="8">Parents: K2513510</FONT><BR /><FONT POINT-SIZE="8">Sons: K2852352</FONT>>]
+}
+subgraph cluster_act_336 {
+label = "Action: 336"step_K2686736 [label=<15<BR /><FONT POINT-SIZE="8">ID: K2686736</FONT><BR /><FONT POINT-SIZE="8">Parents: K2519117</FONT><BR /><FONT POINT-SIZE="8">Sons: K2854355</FONT>>]
+step_K2687936 [label=<15<BR /><FONT POINT-SIZE="8">ID: K2687936</FONT><BR /><FONT POINT-SIZE="8">Parents: K2517120</FONT><BR /><FONT POINT-SIZE="8">Sons: K2854355</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 16";
+        }
+
+        subgraph cluster_11 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_233 {
+label = "Action: 233"step_K1847833 [label=<12<BR /><FONT POINT-SIZE="8">ID: K1847833</FONT><BR /><FONT POINT-SIZE="8">Parents: K1679420</FONT><BR /><FONT POINT-SIZE="8">Sons: K2013054</FONT>>]
+}
+subgraph cluster_act_231 {
+label = "Action: 231"step_K1843831 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1843831</FONT><BR /><FONT POINT-SIZE="8">Parents: K1673410</FONT><BR /><FONT POINT-SIZE="8">Sons: K2012252</FONT>>]
+step_K1844631 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1844631</FONT><BR /><FONT POINT-SIZE="8">Parents: K1673812</FONT><BR /><FONT POINT-SIZE="8">Sons: K2012250</FONT>>]
+step_K1847431 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1847431</FONT><BR /><FONT POINT-SIZE="8">Parents: K1679819,K1679019</FONT><BR /><FONT POINT-SIZE="8">Sons: K2012252,K2012250</FONT>>]
+}
+subgraph cluster_act_229 {
+label = "Action: 229"step_K1847029 [label=<8<BR /><FONT POINT-SIZE="8">ID: K1847029</FONT><BR /><FONT POINT-SIZE="8">Parents: K1679418</FONT><BR /><FONT POINT-SIZE="8">Sons: K2011448</FONT>>]
+}
+subgraph cluster_act_224 {
+label = "Action: 224"step_K1840624 [label=<3<BR /><FONT POINT-SIZE="8">ID: K1840624</FONT><BR /><FONT POINT-SIZE="8">Parents: K1675002</FONT><BR /><FONT POINT-SIZE="8">Sons: K2009445,K2009450</FONT>>]
+}
+subgraph cluster_act_239 {
+label = "Action: 239"step_K1844239 [label=<18<BR /><FONT POINT-SIZE="8">ID: K1844239</FONT><BR /><FONT POINT-SIZE="8">Parents: K1676611,K1675811</FONT><BR /><FONT POINT-SIZE="8">Sons: K2015458,K2015460</FONT>>]
+}
+subgraph cluster_act_235 {
+label = "Action: 235"step_K1846235 [label=<14<BR /><FONT POINT-SIZE="8">ID: K1846235</FONT><BR /><FONT POINT-SIZE="8">Parents: K1678616,K1679816</FONT><BR /><FONT POINT-SIZE="8">Sons: K2013854</FONT>>]
+}
+subgraph cluster_act_231 {
+label = "Action: 231"step_K1843831 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1843831</FONT><BR /><FONT POINT-SIZE="8">Parents: K1673410</FONT><BR /><FONT POINT-SIZE="8">Sons: K2012252</FONT>>]
+step_K1844631 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1844631</FONT><BR /><FONT POINT-SIZE="8">Parents: K1673812</FONT><BR /><FONT POINT-SIZE="8">Sons: K2012250</FONT>>]
+step_K1847431 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1847431</FONT><BR /><FONT POINT-SIZE="8">Parents: K1679819,K1679019</FONT><BR /><FONT POINT-SIZE="8">Sons: K2012252,K2012250</FONT>>]
+}
+subgraph cluster_act_230 {
+label = "Action: 230"step_K1843430 [label=<9<BR /><FONT POINT-SIZE="8">ID: K1843430</FONT><BR /><FONT POINT-SIZE="8">Parents: K1675009</FONT><BR /><FONT POINT-SIZE="8">Sons: K2011851</FONT>>]
+}
+subgraph cluster_act_231 {
+label = "Action: 231"step_K1843831 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1843831</FONT><BR /><FONT POINT-SIZE="8">Parents: K1673410</FONT><BR /><FONT POINT-SIZE="8">Sons: K2012252</FONT>>]
+step_K1844631 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1844631</FONT><BR /><FONT POINT-SIZE="8">Parents: K1673812</FONT><BR /><FONT POINT-SIZE="8">Sons: K2012250</FONT>>]
+step_K1847431 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1847431</FONT><BR /><FONT POINT-SIZE="8">Parents: K1679819,K1679019</FONT><BR /><FONT POINT-SIZE="8">Sons: K2012252,K2012250</FONT>>]
+}
+subgraph cluster_act_238 {
+label = "Action: 238"step_K1847438 [label=<17<BR /><FONT POINT-SIZE="8">ID: K1847438</FONT><BR /><FONT POINT-SIZE="8">Parents: K1679819</FONT><BR /><FONT POINT-SIZE="8">Sons: K2015057</FONT>>]
+}
+subgraph cluster_act_232 {
+label = "Action: 232"step_K1845032 [label=<11<BR /><FONT POINT-SIZE="8">ID: K1845032</FONT><BR /><FONT POINT-SIZE="8">Parents: K1677413</FONT><BR /><FONT POINT-SIZE="8">Sons: K2012651</FONT>>]
+}
+subgraph cluster_act_240 {
+label = "Action: 240"step_K1847440 [label=<19<BR /><FONT POINT-SIZE="8">ID: K1847440</FONT><BR /><FONT POINT-SIZE="8">Parents: K1679019</FONT><BR /><FONT POINT-SIZE="8">Sons: K2015856</FONT>>]
+}
+subgraph cluster_act_225 {
+label = "Action: 225"step_K1841025 [label=<4<BR /><FONT POINT-SIZE="8">ID: K1841025</FONT><BR /><FONT POINT-SIZE="8">Parents: K1677403</FONT><BR /><FONT POINT-SIZE="8">Sons: K2009844,K2009852</FONT>>]
+}
+subgraph cluster_act_227 {
+label = "Action: 227"step_K1846627 [label=<6<BR /><FONT POINT-SIZE="8">ID: K1846627</FONT><BR /><FONT POINT-SIZE="8">Parents: K1679017,K1678217</FONT><BR /><FONT POINT-SIZE="8">Sons: K2010648</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 11";
+        }
+
+        subgraph cluster_0 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_1 {
+label = "Action: 1"step_K1 [label=<0<BR /><FONT POINT-SIZE="8">ID: K1</FONT><BR /><FONT POINT-SIZE="8">Parents: </FONT><BR /><FONT POINT-SIZE="8">Sons: K160026</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 0";
+        }
+
+        subgraph cluster_7 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_143 {
+label = "Action: 143"step_K1173343 [label=<2<BR /><FONT POINT-SIZE="8">ID: K1173343</FONT><BR /><FONT POINT-SIZE="8">Parents: K1005734,K1004934</FONT><BR /><FONT POINT-SIZE="8">Sons: K1336965</FONT>>]
+}
+subgraph cluster_act_157 {
+label = "Action: 157"step_K1174157 [label=<16<BR /><FONT POINT-SIZE="8">ID: K1174157</FONT><BR /><FONT POINT-SIZE="8">Parents: K1007736</FONT><BR /><FONT POINT-SIZE="8">Sons: K1342567</FONT>>]
+step_K1174957 [label=<16<BR /><FONT POINT-SIZE="8">ID: K1174957</FONT><BR /><FONT POINT-SIZE="8">Parents: K1007338</FONT><BR /><FONT POINT-SIZE="8">Sons: K1342567</FONT>>]
+}
+subgraph cluster_act_150 {
+label = "Action: 150"step_K1169350 [label=<9<BR /><FONT POINT-SIZE="8">ID: K1169350</FONT><BR /><FONT POINT-SIZE="8">Parents: K1001724</FONT><BR /><FONT POINT-SIZE="8">Sons: K1339769</FONT>>]
+step_K1172150 [label=<9<BR /><FONT POINT-SIZE="8">ID: K1172150</FONT><BR /><FONT POINT-SIZE="8">Parents: K1007331,K1004531</FONT><BR /><FONT POINT-SIZE="8">Sons: K1339769</FONT>>]
+}
+subgraph cluster_act_153 {
+label = "Action: 153"step_K1173353 [label=<12<BR /><FONT POINT-SIZE="8">ID: K1173353</FONT><BR /><FONT POINT-SIZE="8">Parents: K1005734</FONT><BR /><FONT POINT-SIZE="8">Sons: K1340980</FONT>>]
+step_K1172553 [label=<12<BR /><FONT POINT-SIZE="8">ID: K1172553</FONT><BR /><FONT POINT-SIZE="8">Parents: K1001732</FONT><BR /><FONT POINT-SIZE="8">Sons: K1340980</FONT>>]
+}
+subgraph cluster_act_150 {
+label = "Action: 150"step_K1169350 [label=<9<BR /><FONT POINT-SIZE="8">ID: K1169350</FONT><BR /><FONT POINT-SIZE="8">Parents: K1001724</FONT><BR /><FONT POINT-SIZE="8">Sons: K1339769</FONT>>]
+step_K1172150 [label=<9<BR /><FONT POINT-SIZE="8">ID: K1172150</FONT><BR /><FONT POINT-SIZE="8">Parents: K1007331,K1004531</FONT><BR /><FONT POINT-SIZE="8">Sons: K1339769</FONT>>]
+}
+subgraph cluster_act_152 {
+label = "Action: 152"step_K1169752 [label=<11<BR /><FONT POINT-SIZE="8">ID: K1169752</FONT><BR /><FONT POINT-SIZE="8">Parents: K1001325</FONT><BR /><FONT POINT-SIZE="8">Sons: K1340573</FONT>>]
+step_K1172152 [label=<11<BR /><FONT POINT-SIZE="8">ID: K1172152</FONT><BR /><FONT POINT-SIZE="8">Parents: K1003731,K1007331</FONT><BR /><FONT POINT-SIZE="8">Sons: K1340573</FONT>>]
+}
+subgraph cluster_act_149 {
+label = "Action: 149"step_K1170949 [label=<8<BR /><FONT POINT-SIZE="8">ID: K1170949</FONT><BR /><FONT POINT-SIZE="8">Parents: K1002528</FONT><BR /><FONT POINT-SIZE="8">Sons: K1339378</FONT>>]
+step_K1171749 [label=<8<BR /><FONT POINT-SIZE="8">ID: K1171749</FONT><BR /><FONT POINT-SIZE="8">Parents: K1001330</FONT><BR /><FONT POINT-SIZE="8">Sons: K1339378</FONT>>]
+}
+subgraph cluster_act_156 {
+label = "Action: 156"step_K1175756 [label=<15<BR /><FONT POINT-SIZE="8">ID: K1175756</FONT><BR /><FONT POINT-SIZE="8">Parents: K1007340</FONT><BR /><FONT POINT-SIZE="8">Sons: K1342175</FONT>>]
+step_K1174556 [label=<15<BR /><FONT POINT-SIZE="8">ID: K1174556</FONT><BR /><FONT POINT-SIZE="8">Parents: K1006937</FONT><BR /><FONT POINT-SIZE="8">Sons: K1342175</FONT>>]
+}
+subgraph cluster_act_157 {
+label = "Action: 157"step_K1174157 [label=<16<BR /><FONT POINT-SIZE="8">ID: K1174157</FONT><BR /><FONT POINT-SIZE="8">Parents: K1007736</FONT><BR /><FONT POINT-SIZE="8">Sons: K1342567</FONT>>]
+step_K1174957 [label=<16<BR /><FONT POINT-SIZE="8">ID: K1174957</FONT><BR /><FONT POINT-SIZE="8">Parents: K1007338</FONT><BR /><FONT POINT-SIZE="8">Sons: K1342567</FONT>>]
+}
+subgraph cluster_act_149 {
+label = "Action: 149"step_K1170949 [label=<8<BR /><FONT POINT-SIZE="8">ID: K1170949</FONT><BR /><FONT POINT-SIZE="8">Parents: K1002528</FONT><BR /><FONT POINT-SIZE="8">Sons: K1339378</FONT>>]
+step_K1171749 [label=<8<BR /><FONT POINT-SIZE="8">ID: K1171749</FONT><BR /><FONT POINT-SIZE="8">Parents: K1001330</FONT><BR /><FONT POINT-SIZE="8">Sons: K1339378</FONT>>]
+}
+subgraph cluster_act_153 {
+label = "Action: 153"step_K1173353 [label=<12<BR /><FONT POINT-SIZE="8">ID: K1173353</FONT><BR /><FONT POINT-SIZE="8">Parents: K1005734</FONT><BR /><FONT POINT-SIZE="8">Sons: K1340980</FONT>>]
+step_K1172553 [label=<12<BR /><FONT POINT-SIZE="8">ID: K1172553</FONT><BR /><FONT POINT-SIZE="8">Parents: K1001732</FONT><BR /><FONT POINT-SIZE="8">Sons: K1340980</FONT>>]
+}
+subgraph cluster_act_142 {
+label = "Action: 142"step_K1170942 [label=<1<BR /><FONT POINT-SIZE="8">ID: K1170942</FONT><BR /><FONT POINT-SIZE="8">Parents: K1002528,K1003328</FONT><BR /><FONT POINT-SIZE="8">Sons: K1336564</FONT>>]
+}
+subgraph cluster_act_156 {
+label = "Action: 156"step_K1175756 [label=<15<BR /><FONT POINT-SIZE="8">ID: K1175756</FONT><BR /><FONT POINT-SIZE="8">Parents: K1007340</FONT><BR /><FONT POINT-SIZE="8">Sons: K1342175</FONT>>]
+step_K1174556 [label=<15<BR /><FONT POINT-SIZE="8">ID: K1174556</FONT><BR /><FONT POINT-SIZE="8">Parents: K1006937</FONT><BR /><FONT POINT-SIZE="8">Sons: K1342175</FONT>>]
+}
+subgraph cluster_act_152 {
+label = "Action: 152"step_K1169752 [label=<11<BR /><FONT POINT-SIZE="8">ID: K1169752</FONT><BR /><FONT POINT-SIZE="8">Parents: K1001325</FONT><BR /><FONT POINT-SIZE="8">Sons: K1340573</FONT>>]
+step_K1172152 [label=<11<BR /><FONT POINT-SIZE="8">ID: K1172152</FONT><BR /><FONT POINT-SIZE="8">Parents: K1003731,K1007331</FONT><BR /><FONT POINT-SIZE="8">Sons: K1340573</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 7";
+        }
+
+        subgraph cluster_9 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_196 {
+label = "Action: 196"step_K1511796 [label=<15<BR /><FONT POINT-SIZE="8">ID: K1511796</FONT><BR /><FONT POINT-SIZE="8">Parents: K1340980</FONT><BR /><FONT POINT-SIZE="8">Sons: K1678217</FONT>>]
+}
+subgraph cluster_act_199 {
+label = "Action: 199"step_K1510999 [label=<18<BR /><FONT POINT-SIZE="8">ID: K1510999</FONT><BR /><FONT POINT-SIZE="8">Parents: K1339378</FONT><BR /><FONT POINT-SIZE="8">Sons: K1679420</FONT>>]
+step_K1511799 [label=<18<BR /><FONT POINT-SIZE="8">ID: K1511799</FONT><BR /><FONT POINT-SIZE="8">Parents: K1340980</FONT><BR /><FONT POINT-SIZE="8">Sons: K1679418</FONT>>]
+}
+subgraph cluster_act_188 {
+label = "Action: 188"step_K1507388 [label=<7<BR /><FONT POINT-SIZE="8">ID: K1507388</FONT><BR /><FONT POINT-SIZE="8">Parents: K1339769</FONT><BR /><FONT POINT-SIZE="8">Sons: K1675002</FONT>>]
+step_K1506588 [label=<7<BR /><FONT POINT-SIZE="8">ID: K1506588</FONT><BR /><FONT POINT-SIZE="8">Parents: K1342567</FONT><BR /><FONT POINT-SIZE="8">Sons: K1675009,K1675002</FONT>>]
+}
+subgraph cluster_act_185 {
+label = "Action: 185"step_K1505385 [label=<4<BR /><FONT POINT-SIZE="8">ID: K1505385</FONT><BR /><FONT POINT-SIZE="8">Parents: K1336564</FONT><BR /><FONT POINT-SIZE="8">Sons: K1673812</FONT>>]
+}
+subgraph cluster_act_194 {
+label = "Action: 194"step_K1509794 [label=<13<BR /><FONT POINT-SIZE="8">ID: K1509794</FONT><BR /><FONT POINT-SIZE="8">Parents: K1342175</FONT><BR /><FONT POINT-SIZE="8">Sons: K1677403,K1677413</FONT>>]
+step_K1508994 [label=<13<BR /><FONT POINT-SIZE="8">ID: K1508994</FONT><BR /><FONT POINT-SIZE="8">Parents: K1340573</FONT><BR /><FONT POINT-SIZE="8">Sons: K1677403</FONT>>]
+}
+subgraph cluster_act_184 {
+label = "Action: 184"step_K1505784 [label=<3<BR /><FONT POINT-SIZE="8">ID: K1505784</FONT><BR /><FONT POINT-SIZE="8">Parents: K1336965</FONT><BR /><FONT POINT-SIZE="8">Sons: K1673410</FONT>>]
+}
+subgraph cluster_act_188 {
+label = "Action: 188"step_K1507388 [label=<7<BR /><FONT POINT-SIZE="8">ID: K1507388</FONT><BR /><FONT POINT-SIZE="8">Parents: K1339769</FONT><BR /><FONT POINT-SIZE="8">Sons: K1675002</FONT>>]
+step_K1506588 [label=<7<BR /><FONT POINT-SIZE="8">ID: K1506588</FONT><BR /><FONT POINT-SIZE="8">Parents: K1342567</FONT><BR /><FONT POINT-SIZE="8">Sons: K1675009,K1675002</FONT>>]
+}
+subgraph cluster_act_190 {
+label = "Action: 190"step_K1505390 [label=<9<BR /><FONT POINT-SIZE="8">ID: K1505390</FONT><BR /><FONT POINT-SIZE="8">Parents: K1336564</FONT><BR /><FONT POINT-SIZE="8">Sons: K1675811</FONT>>]
+}
+subgraph cluster_act_197 {
+label = "Action: 197"step_K1510997 [label=<16<BR /><FONT POINT-SIZE="8">ID: K1510997</FONT><BR /><FONT POINT-SIZE="8">Parents: K1339378</FONT><BR /><FONT POINT-SIZE="8">Sons: K1678616</FONT>>]
+}
+subgraph cluster_act_192 {
+label = "Action: 192"step_K1505792 [label=<11<BR /><FONT POINT-SIZE="8">ID: K1505792</FONT><BR /><FONT POINT-SIZE="8">Parents: K1336965</FONT><BR /><FONT POINT-SIZE="8">Sons: K1676611</FONT>>]
+}
+subgraph cluster_act_198 {
+label = "Action: 198"step_K1507398 [label=<17<BR /><FONT POINT-SIZE="8">ID: K1507398</FONT><BR /><FONT POINT-SIZE="8">Parents: K1339769</FONT><BR /><FONT POINT-SIZE="8">Sons: K1679017,K1679019</FONT>>]
+}
+subgraph cluster_act_194 {
+label = "Action: 194"step_K1509794 [label=<13<BR /><FONT POINT-SIZE="8">ID: K1509794</FONT><BR /><FONT POINT-SIZE="8">Parents: K1342175</FONT><BR /><FONT POINT-SIZE="8">Sons: K1677403,K1677413</FONT>>]
+step_K1508994 [label=<13<BR /><FONT POINT-SIZE="8">ID: K1508994</FONT><BR /><FONT POINT-SIZE="8">Parents: K1340573</FONT><BR /><FONT POINT-SIZE="8">Sons: K1677403</FONT>>]
+}
+subgraph cluster_act_200 {
+label = "Action: 200"step_K1509000 [label=<19<BR /><FONT POINT-SIZE="8">ID: K1509000</FONT><BR /><FONT POINT-SIZE="8">Parents: K1340573</FONT><BR /><FONT POINT-SIZE="8">Sons: K1679819,K1679816</FONT>>]
+}
+subgraph cluster_act_199 {
+label = "Action: 199"step_K1510999 [label=<18<BR /><FONT POINT-SIZE="8">ID: K1510999</FONT><BR /><FONT POINT-SIZE="8">Parents: K1339378</FONT><BR /><FONT POINT-SIZE="8">Sons: K1679420</FONT>>]
+step_K1511799 [label=<18<BR /><FONT POINT-SIZE="8">ID: K1511799</FONT><BR /><FONT POINT-SIZE="8">Parents: K1340980</FONT><BR /><FONT POINT-SIZE="8">Sons: K1679418</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 9";
+        }
+
+        subgraph cluster_10 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_219 {
+label = "Action: 219"step_K1679819 [label=<18<BR /><FONT POINT-SIZE="8">ID: K1679819</FONT><BR /><FONT POINT-SIZE="8">Parents: K1509000</FONT><BR /><FONT POINT-SIZE="8">Sons: K1847431,K1847438</FONT>>]
+step_K1679019 [label=<18<BR /><FONT POINT-SIZE="8">ID: K1679019</FONT><BR /><FONT POINT-SIZE="8">Parents: K1507398</FONT><BR /><FONT POINT-SIZE="8">Sons: K1847440,K1847431</FONT>>]
+}
+subgraph cluster_act_216 {
+label = "Action: 216"step_K1678616 [label=<15<BR /><FONT POINT-SIZE="8">ID: K1678616</FONT><BR /><FONT POINT-SIZE="8">Parents: K1510997</FONT><BR /><FONT POINT-SIZE="8">Sons: K1846235</FONT>>]
+step_K1679816 [label=<15<BR /><FONT POINT-SIZE="8">ID: K1679816</FONT><BR /><FONT POINT-SIZE="8">Parents: K1509000</FONT><BR /><FONT POINT-SIZE="8">Sons: K1846235</FONT>>]
+}
+subgraph cluster_act_220 {
+label = "Action: 220"step_K1679420 [label=<19<BR /><FONT POINT-SIZE="8">ID: K1679420</FONT><BR /><FONT POINT-SIZE="8">Parents: K1510999</FONT><BR /><FONT POINT-SIZE="8">Sons: K1847833</FONT>>]
+}
+subgraph cluster_act_212 {
+label = "Action: 212"step_K1673812 [label=<11<BR /><FONT POINT-SIZE="8">ID: K1673812</FONT><BR /><FONT POINT-SIZE="8">Parents: K1505385</FONT><BR /><FONT POINT-SIZE="8">Sons: K1844631</FONT>>]
+}
+subgraph cluster_act_211 {
+label = "Action: 211"step_K1676611 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1676611</FONT><BR /><FONT POINT-SIZE="8">Parents: K1505792</FONT><BR /><FONT POINT-SIZE="8">Sons: K1844239</FONT>>]
+step_K1675811 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1675811</FONT><BR /><FONT POINT-SIZE="8">Parents: K1505390</FONT><BR /><FONT POINT-SIZE="8">Sons: K1844239</FONT>>]
+}
+subgraph cluster_act_217 {
+label = "Action: 217"step_K1679017 [label=<16<BR /><FONT POINT-SIZE="8">ID: K1679017</FONT><BR /><FONT POINT-SIZE="8">Parents: K1507398</FONT><BR /><FONT POINT-SIZE="8">Sons: K1846627</FONT>>]
+step_K1678217 [label=<16<BR /><FONT POINT-SIZE="8">ID: K1678217</FONT><BR /><FONT POINT-SIZE="8">Parents: K1511796</FONT><BR /><FONT POINT-SIZE="8">Sons: K1846627</FONT>>]
+}
+subgraph cluster_act_211 {
+label = "Action: 211"step_K1676611 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1676611</FONT><BR /><FONT POINT-SIZE="8">Parents: K1505792</FONT><BR /><FONT POINT-SIZE="8">Sons: K1844239</FONT>>]
+step_K1675811 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1675811</FONT><BR /><FONT POINT-SIZE="8">Parents: K1505390</FONT><BR /><FONT POINT-SIZE="8">Sons: K1844239</FONT>>]
+}
+subgraph cluster_act_216 {
+label = "Action: 216"step_K1678616 [label=<15<BR /><FONT POINT-SIZE="8">ID: K1678616</FONT><BR /><FONT POINT-SIZE="8">Parents: K1510997</FONT><BR /><FONT POINT-SIZE="8">Sons: K1846235</FONT>>]
+step_K1679816 [label=<15<BR /><FONT POINT-SIZE="8">ID: K1679816</FONT><BR /><FONT POINT-SIZE="8">Parents: K1509000</FONT><BR /><FONT POINT-SIZE="8">Sons: K1846235</FONT>>]
+}
+subgraph cluster_act_213 {
+label = "Action: 213"step_K1677413 [label=<12<BR /><FONT POINT-SIZE="8">ID: K1677413</FONT><BR /><FONT POINT-SIZE="8">Parents: K1509794</FONT><BR /><FONT POINT-SIZE="8">Sons: K1845032</FONT>>]
+}
+subgraph cluster_act_219 {
+label = "Action: 219"step_K1679819 [label=<18<BR /><FONT POINT-SIZE="8">ID: K1679819</FONT><BR /><FONT POINT-SIZE="8">Parents: K1509000</FONT><BR /><FONT POINT-SIZE="8">Sons: K1847431,K1847438</FONT>>]
+step_K1679019 [label=<18<BR /><FONT POINT-SIZE="8">ID: K1679019</FONT><BR /><FONT POINT-SIZE="8">Parents: K1507398</FONT><BR /><FONT POINT-SIZE="8">Sons: K1847440,K1847431</FONT>>]
+}
+subgraph cluster_act_217 {
+label = "Action: 217"step_K1679017 [label=<16<BR /><FONT POINT-SIZE="8">ID: K1679017</FONT><BR /><FONT POINT-SIZE="8">Parents: K1507398</FONT><BR /><FONT POINT-SIZE="8">Sons: K1846627</FONT>>]
+step_K1678217 [label=<16<BR /><FONT POINT-SIZE="8">ID: K1678217</FONT><BR /><FONT POINT-SIZE="8">Parents: K1511796</FONT><BR /><FONT POINT-SIZE="8">Sons: K1846627</FONT>>]
+}
+subgraph cluster_act_218 {
+label = "Action: 218"step_K1679418 [label=<17<BR /><FONT POINT-SIZE="8">ID: K1679418</FONT><BR /><FONT POINT-SIZE="8">Parents: K1511799</FONT><BR /><FONT POINT-SIZE="8">Sons: K1847029</FONT>>]
+}
+subgraph cluster_act_203 {
+label = "Action: 203"step_K1677403 [label=<2<BR /><FONT POINT-SIZE="8">ID: K1677403</FONT><BR /><FONT POINT-SIZE="8">Parents: K1509794,K1508994</FONT><BR /><FONT POINT-SIZE="8">Sons: K1841025</FONT>>]
+}
+subgraph cluster_act_210 {
+label = "Action: 210"step_K1673410 [label=<9<BR /><FONT POINT-SIZE="8">ID: K1673410</FONT><BR /><FONT POINT-SIZE="8">Parents: K1505784</FONT><BR /><FONT POINT-SIZE="8">Sons: K1843831</FONT>>]
+}
+subgraph cluster_act_209 {
+label = "Action: 209"step_K1675009 [label=<8<BR /><FONT POINT-SIZE="8">ID: K1675009</FONT><BR /><FONT POINT-SIZE="8">Parents: K1506588</FONT><BR /><FONT POINT-SIZE="8">Sons: K1843430</FONT>>]
+}
+subgraph cluster_act_202 {
+label = "Action: 202"step_K1675002 [label=<1<BR /><FONT POINT-SIZE="8">ID: K1675002</FONT><BR /><FONT POINT-SIZE="8">Parents: K1507388,K1506588</FONT><BR /><FONT POINT-SIZE="8">Sons: K1840624</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 10";
+        }
+
+        subgraph cluster_19 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_382 {
+label = "Action: 382"step_K3187182 [label=<1<BR /><FONT POINT-SIZE="8">ID: K3187182</FONT><BR /><FONT POINT-SIZE="8">Parents: K3018768,K3019568</FONT><BR /><FONT POINT-SIZE="8">Sons: K3352821</FONT>>]
+step_K3185582 [label=<1<BR /><FONT POINT-SIZE="8">ID: K3185582</FONT><BR /><FONT POINT-SIZE="8">Parents: K3017964,K3019964</FONT><BR /><FONT POINT-SIZE="8">Sons: K3352821</FONT>>]
+}
+subgraph cluster_act_383 {
+label = "Action: 383"step_K3189583 [label=<2<BR /><FONT POINT-SIZE="8">ID: K3189583</FONT><BR /><FONT POINT-SIZE="8">Parents: K3021974,K3021174</FONT><BR /><FONT POINT-SIZE="8">Sons: K3353221</FONT>>]
+step_K3185983 [label=<2<BR /><FONT POINT-SIZE="8">ID: K3185983</FONT><BR /><FONT POINT-SIZE="8">Parents: K3017565,K3020765</FONT><BR /><FONT POINT-SIZE="8">Sons: K3353221</FONT>>]
+}
+subgraph cluster_act_382 {
+label = "Action: 382"step_K3187182 [label=<1<BR /><FONT POINT-SIZE="8">ID: K3187182</FONT><BR /><FONT POINT-SIZE="8">Parents: K3018768,K3019568</FONT><BR /><FONT POINT-SIZE="8">Sons: K3352821</FONT>>]
+step_K3185582 [label=<1<BR /><FONT POINT-SIZE="8">ID: K3185582</FONT><BR /><FONT POINT-SIZE="8">Parents: K3017964,K3019964</FONT><BR /><FONT POINT-SIZE="8">Sons: K3352821</FONT>>]
+}
+subgraph cluster_act_383 {
+label = "Action: 383"step_K3189583 [label=<2<BR /><FONT POINT-SIZE="8">ID: K3189583</FONT><BR /><FONT POINT-SIZE="8">Parents: K3021974,K3021174</FONT><BR /><FONT POINT-SIZE="8">Sons: K3353221</FONT>>]
+step_K3185983 [label=<2<BR /><FONT POINT-SIZE="8">ID: K3185983</FONT><BR /><FONT POINT-SIZE="8">Parents: K3017565,K3020765</FONT><BR /><FONT POINT-SIZE="8">Sons: K3353221</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 19";
+        }
+
+        subgraph cluster_17 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_352 {
+label = "Action: 352"step_K2852352 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2852352</FONT><BR /><FONT POINT-SIZE="8">Parents: K2687531,K2683931</FONT><BR /><FONT POINT-SIZE="8">Sons: K3020765</FONT>>]
+step_K2853152 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2853152</FONT><BR /><FONT POINT-SIZE="8">Parents: K2685533</FONT><BR /><FONT POINT-SIZE="8">Sons: K3020765</FONT>>]
+}
+subgraph cluster_act_355 {
+label = "Action: 355"step_K2854355 [label=<14<BR /><FONT POINT-SIZE="8">ID: K2854355</FONT><BR /><FONT POINT-SIZE="8">Parents: K2686736,K2687936</FONT><BR /><FONT POINT-SIZE="8">Sons: K3021974</FONT>>]
+}
+subgraph cluster_act_350 {
+label = "Action: 350"step_K2851550 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2851550</FONT><BR /><FONT POINT-SIZE="8">Parents: K2683129</FONT><BR /><FONT POINT-SIZE="8">Sons: K3019964</FONT>>]
+step_K2852350 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2852350</FONT><BR /><FONT POINT-SIZE="8">Parents: K2684731,K2687531</FONT><BR /><FONT POINT-SIZE="8">Sons: K3019964</FONT>>]
+}
+subgraph cluster_act_352 {
+label = "Action: 352"step_K2852352 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2852352</FONT><BR /><FONT POINT-SIZE="8">Parents: K2687531,K2683931</FONT><BR /><FONT POINT-SIZE="8">Sons: K3020765</FONT>>]
+step_K2853152 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2853152</FONT><BR /><FONT POINT-SIZE="8">Parents: K2685533</FONT><BR /><FONT POINT-SIZE="8">Sons: K3020765</FONT>>]
+}
+subgraph cluster_act_353 {
+label = "Action: 353"step_K2852753 [label=<12<BR /><FONT POINT-SIZE="8">ID: K2852753</FONT><BR /><FONT POINT-SIZE="8">Parents: K2681932</FONT><BR /><FONT POINT-SIZE="8">Sons: K3021174</FONT>>]
+step_K2855953 [label=<12<BR /><FONT POINT-SIZE="8">ID: K2855953</FONT><BR /><FONT POINT-SIZE="8">Parents: K2687540</FONT><BR /><FONT POINT-SIZE="8">Sons: K3021174</FONT>>]
+}
+subgraph cluster_act_353 {
+label = "Action: 353"step_K2852753 [label=<12<BR /><FONT POINT-SIZE="8">ID: K2852753</FONT><BR /><FONT POINT-SIZE="8">Parents: K2681932</FONT><BR /><FONT POINT-SIZE="8">Sons: K3021174</FONT>>]
+step_K2855953 [label=<12<BR /><FONT POINT-SIZE="8">ID: K2855953</FONT><BR /><FONT POINT-SIZE="8">Parents: K2687540</FONT><BR /><FONT POINT-SIZE="8">Sons: K3021174</FONT>>]
+}
+subgraph cluster_act_349 {
+label = "Action: 349"step_K2855149 [label=<8<BR /><FONT POINT-SIZE="8">ID: K2855149</FONT><BR /><FONT POINT-SIZE="8">Parents: K2687538</FONT><BR /><FONT POINT-SIZE="8">Sons: K3019568</FONT>>]
+step_K2851949 [label=<8<BR /><FONT POINT-SIZE="8">ID: K2851949</FONT><BR /><FONT POINT-SIZE="8">Parents: K2681530</FONT><BR /><FONT POINT-SIZE="8">Sons: K3019568</FONT>>]
+}
+subgraph cluster_act_347 {
+label = "Action: 347"step_K2854747 [label=<6<BR /><FONT POINT-SIZE="8">ID: K2854747</FONT><BR /><FONT POINT-SIZE="8">Parents: K2687137,K2686337</FONT><BR /><FONT POINT-SIZE="8">Sons: K3018768</FONT>>]
+}
+subgraph cluster_act_349 {
+label = "Action: 349"step_K2855149 [label=<8<BR /><FONT POINT-SIZE="8">ID: K2855149</FONT><BR /><FONT POINT-SIZE="8">Parents: K2687538</FONT><BR /><FONT POINT-SIZE="8">Sons: K3019568</FONT>>]
+step_K2851949 [label=<8<BR /><FONT POINT-SIZE="8">ID: K2851949</FONT><BR /><FONT POINT-SIZE="8">Parents: K2681530</FONT><BR /><FONT POINT-SIZE="8">Sons: K3019568</FONT>>]
+}
+subgraph cluster_act_344 {
+label = "Action: 344"step_K2848744 [label=<3<BR /><FONT POINT-SIZE="8">ID: K2848744</FONT><BR /><FONT POINT-SIZE="8">Parents: K2683122</FONT><BR /><FONT POINT-SIZE="8">Sons: K3017565</FONT>>]
+}
+subgraph cluster_act_345 {
+label = "Action: 345"step_K2849145 [label=<4<BR /><FONT POINT-SIZE="8">ID: K2849145</FONT><BR /><FONT POINT-SIZE="8">Parents: K2685523</FONT><BR /><FONT POINT-SIZE="8">Sons: K3017964</FONT>>]
+}
+subgraph cluster_act_350 {
+label = "Action: 350"step_K2851550 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2851550</FONT><BR /><FONT POINT-SIZE="8">Parents: K2683129</FONT><BR /><FONT POINT-SIZE="8">Sons: K3019964</FONT>>]
+step_K2852350 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2852350</FONT><BR /><FONT POINT-SIZE="8">Parents: K2684731,K2687531</FONT><BR /><FONT POINT-SIZE="8">Sons: K3019964</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 17";
+        }
+
+        subgraph cluster_8 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_173 {
+label = "Action: 173"step_K1340573 [label=<12<BR /><FONT POINT-SIZE="8">ID: K1340573</FONT><BR /><FONT POINT-SIZE="8">Parents: K1169752,K1172152</FONT><BR /><FONT POINT-SIZE="8">Sons: K1508994,K1509000</FONT>>]
+}
+subgraph cluster_act_167 {
+label = "Action: 167"step_K1342567 [label=<6<BR /><FONT POINT-SIZE="8">ID: K1342567</FONT><BR /><FONT POINT-SIZE="8">Parents: K1174157,K1174957</FONT><BR /><FONT POINT-SIZE="8">Sons: K1506588</FONT>>]
+}
+subgraph cluster_act_169 {
+label = "Action: 169"step_K1339769 [label=<8<BR /><FONT POINT-SIZE="8">ID: K1339769</FONT><BR /><FONT POINT-SIZE="8">Parents: K1169350,K1172150</FONT><BR /><FONT POINT-SIZE="8">Sons: K1507388,K1507398</FONT>>]
+}
+subgraph cluster_act_178 {
+label = "Action: 178"step_K1339378 [label=<17<BR /><FONT POINT-SIZE="8">ID: K1339378</FONT><BR /><FONT POINT-SIZE="8">Parents: K1170949,K1171749</FONT><BR /><FONT POINT-SIZE="8">Sons: K1510997,K1510999</FONT>>]
+}
+subgraph cluster_act_165 {
+label = "Action: 165"step_K1336965 [label=<4<BR /><FONT POINT-SIZE="8">ID: K1336965</FONT><BR /><FONT POINT-SIZE="8">Parents: K1173343</FONT><BR /><FONT POINT-SIZE="8">Sons: K1505784,K1505792</FONT>>]
+}
+subgraph cluster_act_180 {
+label = "Action: 180"step_K1340980 [label=<19<BR /><FONT POINT-SIZE="8">ID: K1340980</FONT><BR /><FONT POINT-SIZE="8">Parents: K1173353,K1172553</FONT><BR /><FONT POINT-SIZE="8">Sons: K1511796,K1511799</FONT>>]
+}
+subgraph cluster_act_175 {
+label = "Action: 175"step_K1342175 [label=<14<BR /><FONT POINT-SIZE="8">ID: K1342175</FONT><BR /><FONT POINT-SIZE="8">Parents: K1175756,K1174556</FONT><BR /><FONT POINT-SIZE="8">Sons: K1509794</FONT>>]
+}
+subgraph cluster_act_164 {
+label = "Action: 164"step_K1336564 [label=<3<BR /><FONT POINT-SIZE="8">ID: K1336564</FONT><BR /><FONT POINT-SIZE="8">Parents: K1170942</FONT><BR /><FONT POINT-SIZE="8">Sons: K1505385,K1505390</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 8";
+        }
+
+        subgraph cluster_6 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_128 {
+label = "Action: 128"step_K1002528 [label=<7<BR /><FONT POINT-SIZE="8">ID: K1002528</FONT><BR /><FONT POINT-SIZE="8">Parents: K838507</FONT><BR /><FONT POINT-SIZE="8">Sons: K1170949,K1170942</FONT>>]
+step_K1003328 [label=<7<BR /><FONT POINT-SIZE="8">ID: K1003328</FONT><BR /><FONT POINT-SIZE="8">Parents: K838909</FONT><BR /><FONT POINT-SIZE="8">Sons: K1170942</FONT>>]
+}
+subgraph cluster_act_128 {
+label = "Action: 128"step_K1002528 [label=<7<BR /><FONT POINT-SIZE="8">ID: K1002528</FONT><BR /><FONT POINT-SIZE="8">Parents: K838507</FONT><BR /><FONT POINT-SIZE="8">Sons: K1170949,K1170942</FONT>>]
+step_K1003328 [label=<7<BR /><FONT POINT-SIZE="8">ID: K1003328</FONT><BR /><FONT POINT-SIZE="8">Parents: K838909</FONT><BR /><FONT POINT-SIZE="8">Sons: K1170942</FONT>>]
+}
+subgraph cluster_act_131 {
+label = "Action: 131"step_K1003731 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1003731</FONT><BR /><FONT POINT-SIZE="8">Parents: K835310</FONT><BR /><FONT POINT-SIZE="8">Sons: K1172152</FONT>>]
+step_K1007331 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1007331</FONT><BR /><FONT POINT-SIZE="8">Parents: K838919,K839719</FONT><BR /><FONT POINT-SIZE="8">Sons: K1172150,K1172152</FONT>>]
+step_K1004531 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1004531</FONT><BR /><FONT POINT-SIZE="8">Parents: K836912</FONT><BR /><FONT POINT-SIZE="8">Sons: K1172150</FONT>>]
+}
+subgraph cluster_act_134 {
+label = "Action: 134"step_K1005734 [label=<13<BR /><FONT POINT-SIZE="8">ID: K1005734</FONT><BR /><FONT POINT-SIZE="8">Parents: K838115</FONT><BR /><FONT POINT-SIZE="8">Sons: K1173343,K1173353</FONT>>]
+step_K1004934 [label=<13<BR /><FONT POINT-SIZE="8">ID: K1004934</FONT><BR /><FONT POINT-SIZE="8">Parents: K839713</FONT><BR /><FONT POINT-SIZE="8">Sons: K1173343</FONT>>]
+}
+subgraph cluster_act_131 {
+label = "Action: 131"step_K1003731 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1003731</FONT><BR /><FONT POINT-SIZE="8">Parents: K835310</FONT><BR /><FONT POINT-SIZE="8">Sons: K1172152</FONT>>]
+step_K1007331 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1007331</FONT><BR /><FONT POINT-SIZE="8">Parents: K838919,K839719</FONT><BR /><FONT POINT-SIZE="8">Sons: K1172150,K1172152</FONT>>]
+step_K1004531 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1004531</FONT><BR /><FONT POINT-SIZE="8">Parents: K836912</FONT><BR /><FONT POINT-SIZE="8">Sons: K1172150</FONT>>]
+}
+subgraph cluster_act_125 {
+label = "Action: 125"step_K1001325 [label=<4<BR /><FONT POINT-SIZE="8">ID: K1001325</FONT><BR /><FONT POINT-SIZE="8">Parents: K832504</FONT><BR /><FONT POINT-SIZE="8">Sons: K1169752</FONT>>]
+}
+subgraph cluster_act_132 {
+label = "Action: 132"step_K1001732 [label=<11<BR /><FONT POINT-SIZE="8">ID: K1001732</FONT><BR /><FONT POINT-SIZE="8">Parents: K832905</FONT><BR /><FONT POINT-SIZE="8">Sons: K1172553</FONT>>]
+}
+subgraph cluster_act_137 {
+label = "Action: 137"step_K1006937 [label=<16<BR /><FONT POINT-SIZE="8">ID: K1006937</FONT><BR /><FONT POINT-SIZE="8">Parents: K835318</FONT><BR /><FONT POINT-SIZE="8">Sons: K1174556</FONT>>]
+}
+subgraph cluster_act_124 {
+label = "Action: 124"step_K1001724 [label=<3<BR /><FONT POINT-SIZE="8">ID: K1001724</FONT><BR /><FONT POINT-SIZE="8">Parents: K832905</FONT><BR /><FONT POINT-SIZE="8">Sons: K1169350</FONT>>]
+}
+subgraph cluster_act_138 {
+label = "Action: 138"step_K1007338 [label=<17<BR /><FONT POINT-SIZE="8">ID: K1007338</FONT><BR /><FONT POINT-SIZE="8">Parents: K839719</FONT><BR /><FONT POINT-SIZE="8">Sons: K1174957</FONT>>]
+}
+subgraph cluster_act_130 {
+label = "Action: 130"step_K1001330 [label=<9<BR /><FONT POINT-SIZE="8">ID: K1001330</FONT><BR /><FONT POINT-SIZE="8">Parents: K832504</FONT><BR /><FONT POINT-SIZE="8">Sons: K1171749</FONT>>]
+}
+subgraph cluster_act_136 {
+label = "Action: 136"step_K1007736 [label=<15<BR /><FONT POINT-SIZE="8">ID: K1007736</FONT><BR /><FONT POINT-SIZE="8">Parents: K836920</FONT><BR /><FONT POINT-SIZE="8">Sons: K1174157</FONT>>]
+}
+subgraph cluster_act_140 {
+label = "Action: 140"step_K1007340 [label=<19<BR /><FONT POINT-SIZE="8">ID: K1007340</FONT><BR /><FONT POINT-SIZE="8">Parents: K838919</FONT><BR /><FONT POINT-SIZE="8">Sons: K1175756</FONT>>]
+}
+subgraph cluster_act_134 {
+label = "Action: 134"step_K1005734 [label=<13<BR /><FONT POINT-SIZE="8">ID: K1005734</FONT><BR /><FONT POINT-SIZE="8">Parents: K838115</FONT><BR /><FONT POINT-SIZE="8">Sons: K1173343,K1173353</FONT>>]
+step_K1004934 [label=<13<BR /><FONT POINT-SIZE="8">ID: K1004934</FONT><BR /><FONT POINT-SIZE="8">Parents: K839713</FONT><BR /><FONT POINT-SIZE="8">Sons: K1173343</FONT>>]
+}
+subgraph cluster_act_131 {
+label = "Action: 131"step_K1003731 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1003731</FONT><BR /><FONT POINT-SIZE="8">Parents: K835310</FONT><BR /><FONT POINT-SIZE="8">Sons: K1172152</FONT>>]
+step_K1007331 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1007331</FONT><BR /><FONT POINT-SIZE="8">Parents: K838919,K839719</FONT><BR /><FONT POINT-SIZE="8">Sons: K1172150,K1172152</FONT>>]
+step_K1004531 [label=<10<BR /><FONT POINT-SIZE="8">ID: K1004531</FONT><BR /><FONT POINT-SIZE="8">Parents: K836912</FONT><BR /><FONT POINT-SIZE="8">Sons: K1172150</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 6";
+        }
+
+        subgraph cluster_4 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_96 {
+label = "Action: 96"step_K670496 [label=<15<BR /><FONT POINT-SIZE="8">ID: K670496</FONT><BR /><FONT POINT-SIZE="8">Parents: K498477</FONT><BR /><FONT POINT-SIZE="8">Sons: K838115</FONT>>]
+}
+subgraph cluster_act_100 {
+label = "Action: 100"step_K670100 [label=<19<BR /><FONT POINT-SIZE="8">ID: K670100</FONT><BR /><FONT POINT-SIZE="8">Parents: K501676</FONT><BR /><FONT POINT-SIZE="8">Sons: K839713,K839719</FONT>>]
+}
+subgraph cluster_act_93 {
+label = "Action: 93"step_K669293 [label=<12<BR /><FONT POINT-SIZE="8">ID: K669293</FONT><BR /><FONT POINT-SIZE="8">Parents: K501674</FONT><BR /><FONT POINT-SIZE="8">Sons: K836920,K836912</FONT>>]
+}
+subgraph cluster_act_98 {
+label = "Action: 98"step_K670498 [label=<17<BR /><FONT POINT-SIZE="8">ID: K670498</FONT><BR /><FONT POINT-SIZE="8">Parents: K498477</FONT><BR /><FONT POINT-SIZE="8">Sons: K838909,K838919</FONT>>]
+}
+subgraph cluster_act_89 {
+label = "Action: 89"step_K666889 [label=<8<BR /><FONT POINT-SIZE="8">ID: K666889</FONT><BR /><FONT POINT-SIZE="8">Parents: K498468</FONT><BR /><FONT POINT-SIZE="8">Sons: K835318,K835310</FONT>>]
+}
+subgraph cluster_act_97 {
+label = "Action: 97"step_K670097 [label=<16<BR /><FONT POINT-SIZE="8">ID: K670097</FONT><BR /><FONT POINT-SIZE="8">Parents: K501676</FONT><BR /><FONT POINT-SIZE="8">Sons: K838507</FONT>>]
+}
+subgraph cluster_act_83 {
+label = "Action: 83"step_K669283 [label=<2<BR /><FONT POINT-SIZE="8">ID: K669283</FONT><BR /><FONT POINT-SIZE="8">Parents: K501674</FONT><BR /><FONT POINT-SIZE="8">Sons: K832905</FONT>>]
+}
+subgraph cluster_act_82 {
+label = "Action: 82"step_K666882 [label=<1<BR /><FONT POINT-SIZE="8">ID: K666882</FONT><BR /><FONT POINT-SIZE="8">Parents: K498468</FONT><BR /><FONT POINT-SIZE="8">Sons: K832504</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 4";
+        }
+
+        subgraph cluster_3 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_74 {
+label = "Action: 74"step_K501674 [label=<13<BR /><FONT POINT-SIZE="8">ID: K501674</FONT><BR /><FONT POINT-SIZE="8">Parents: K330055</FONT><BR /><FONT POINT-SIZE="8">Sons: K669293,K669283</FONT>>]
+}
+subgraph cluster_act_76 {
+label = "Action: 76"step_K501676 [label=<15<BR /><FONT POINT-SIZE="8">ID: K501676</FONT><BR /><FONT POINT-SIZE="8">Parents: K330055</FONT><BR /><FONT POINT-SIZE="8">Sons: K670097,K670100</FONT>>]
+}
+subgraph cluster_act_77 {
+label = "Action: 77"step_K498477 [label=<16<BR /><FONT POINT-SIZE="8">ID: K498477</FONT><BR /><FONT POINT-SIZE="8">Parents: K330047</FONT><BR /><FONT POINT-SIZE="8">Sons: K670496,K670498</FONT>>]
+}
+subgraph cluster_act_68 {
+label = "Action: 68"step_K498468 [label=<7<BR /><FONT POINT-SIZE="8">ID: K498468</FONT><BR /><FONT POINT-SIZE="8">Parents: K330047</FONT><BR /><FONT POINT-SIZE="8">Sons: K666889,K666882</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 3";
+        }
+
+        subgraph cluster_5 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_113 {
+label = "Action: 113"step_K839713 [label=<12<BR /><FONT POINT-SIZE="8">ID: K839713</FONT><BR /><FONT POINT-SIZE="8">Parents: K670100</FONT><BR /><FONT POINT-SIZE="8">Sons: K1004934</FONT>>]
+}
+subgraph cluster_act_120 {
+label = "Action: 120"step_K836920 [label=<19<BR /><FONT POINT-SIZE="8">ID: K836920</FONT><BR /><FONT POINT-SIZE="8">Parents: K669293</FONT><BR /><FONT POINT-SIZE="8">Sons: K1007736</FONT>>]
+}
+subgraph cluster_act_118 {
+label = "Action: 118"step_K835318 [label=<17<BR /><FONT POINT-SIZE="8">ID: K835318</FONT><BR /><FONT POINT-SIZE="8">Parents: K666889</FONT><BR /><FONT POINT-SIZE="8">Sons: K1006937</FONT>>]
+}
+subgraph cluster_act_112 {
+label = "Action: 112"step_K836912 [label=<11<BR /><FONT POINT-SIZE="8">ID: K836912</FONT><BR /><FONT POINT-SIZE="8">Parents: K669293</FONT><BR /><FONT POINT-SIZE="8">Sons: K1004531</FONT>>]
+}
+subgraph cluster_act_110 {
+label = "Action: 110"step_K835310 [label=<9<BR /><FONT POINT-SIZE="8">ID: K835310</FONT><BR /><FONT POINT-SIZE="8">Parents: K666889</FONT><BR /><FONT POINT-SIZE="8">Sons: K1003731</FONT>>]
+}
+subgraph cluster_act_107 {
+label = "Action: 107"step_K838507 [label=<6<BR /><FONT POINT-SIZE="8">ID: K838507</FONT><BR /><FONT POINT-SIZE="8">Parents: K670097</FONT><BR /><FONT POINT-SIZE="8">Sons: K1002528</FONT>>]
+}
+subgraph cluster_act_105 {
+label = "Action: 105"step_K832905 [label=<4<BR /><FONT POINT-SIZE="8">ID: K832905</FONT><BR /><FONT POINT-SIZE="8">Parents: K669283</FONT><BR /><FONT POINT-SIZE="8">Sons: K1001732,K1001724</FONT>>]
+}
+subgraph cluster_act_119 {
+label = "Action: 119"step_K838919 [label=<18<BR /><FONT POINT-SIZE="8">ID: K838919</FONT><BR /><FONT POINT-SIZE="8">Parents: K670498</FONT><BR /><FONT POINT-SIZE="8">Sons: K1007331,K1007340</FONT>>]
+step_K839719 [label=<18<BR /><FONT POINT-SIZE="8">ID: K839719</FONT><BR /><FONT POINT-SIZE="8">Parents: K670100</FONT><BR /><FONT POINT-SIZE="8">Sons: K1007338,K1007331</FONT>>]
+}
+subgraph cluster_act_119 {
+label = "Action: 119"step_K838919 [label=<18<BR /><FONT POINT-SIZE="8">ID: K838919</FONT><BR /><FONT POINT-SIZE="8">Parents: K670498</FONT><BR /><FONT POINT-SIZE="8">Sons: K1007331,K1007340</FONT>>]
+step_K839719 [label=<18<BR /><FONT POINT-SIZE="8">ID: K839719</FONT><BR /><FONT POINT-SIZE="8">Parents: K670100</FONT><BR /><FONT POINT-SIZE="8">Sons: K1007338,K1007331</FONT>>]
+}
+subgraph cluster_act_109 {
+label = "Action: 109"step_K838909 [label=<8<BR /><FONT POINT-SIZE="8">ID: K838909</FONT><BR /><FONT POINT-SIZE="8">Parents: K670498</FONT><BR /><FONT POINT-SIZE="8">Sons: K1003328</FONT>>]
+}
+subgraph cluster_act_115 {
+label = "Action: 115"step_K838115 [label=<14<BR /><FONT POINT-SIZE="8">ID: K838115</FONT><BR /><FONT POINT-SIZE="8">Parents: K670496</FONT><BR /><FONT POINT-SIZE="8">Sons: K1005734</FONT>>]
+}
+subgraph cluster_act_104 {
+label = "Action: 104"step_K832504 [label=<3<BR /><FONT POINT-SIZE="8">ID: K832504</FONT><BR /><FONT POINT-SIZE="8">Parents: K666882</FONT><BR /><FONT POINT-SIZE="8">Sons: K1001325,K1001330</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 5";
+        }
+
+        subgraph cluster_20 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_421 {
+label = "Action: 421"step_K3353221 [label=<0<BR /><FONT POINT-SIZE="8">ID: K3353221</FONT><BR /><FONT POINT-SIZE="8">Parents: K3189583,K3185983</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT>>]
+step_K3352821 [label=<0<BR /><FONT POINT-SIZE="8">ID: K3352821</FONT><BR /><FONT POINT-SIZE="8">Parents: K3187182,K3185582</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT>>]
+}
+subgraph cluster_act_421 {
+label = "Action: 421"step_K3353221 [label=<0<BR /><FONT POINT-SIZE="8">ID: K3353221</FONT><BR /><FONT POINT-SIZE="8">Parents: K3189583,K3185983</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT>>]
+step_K3352821 [label=<0<BR /><FONT POINT-SIZE="8">ID: K3352821</FONT><BR /><FONT POINT-SIZE="8">Parents: K3187182,K3185582</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 20";
+        }
+
+        subgraph cluster_13 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_270 {
+label = "Action: 270"step_K2180270 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2180270</FONT><BR /><FONT POINT-SIZE="8">Parents: K2012651</FONT><BR /><FONT POINT-SIZE="8">Sons: K2347889</FONT>>]
+step_K2177470 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2177470</FONT><BR /><FONT POINT-SIZE="8">Parents: K2009844</FONT><BR /><FONT POINT-SIZE="8">Sons: K2347889</FONT>>]
+}
+subgraph cluster_act_263 {
+label = "Action: 263"step_K2181463 [label=<2<BR /><FONT POINT-SIZE="8">ID: K2181463</FONT><BR /><FONT POINT-SIZE="8">Parents: K2013054,K2013854</FONT><BR /><FONT POINT-SIZE="8">Sons: K2345085</FONT>>]
+}
+subgraph cluster_act_273 {
+label = "Action: 273"step_K2180673 [label=<12<BR /><FONT POINT-SIZE="8">ID: K2180673</FONT><BR /><FONT POINT-SIZE="8">Parents: K2012252,K2009852</FONT><BR /><FONT POINT-SIZE="8">Sons: K2349100</FONT>>]
+step_K2181473 [label=<12<BR /><FONT POINT-SIZE="8">ID: K2181473</FONT><BR /><FONT POINT-SIZE="8">Parents: K2013854</FONT><BR /><FONT POINT-SIZE="8">Sons: K2349100</FONT>>]
+}
+subgraph cluster_act_277 {
+label = "Action: 277"step_K2183077 [label=<16<BR /><FONT POINT-SIZE="8">ID: K2183077</FONT><BR /><FONT POINT-SIZE="8">Parents: K2015458</FONT><BR /><FONT POINT-SIZE="8">Sons: K2350687</FONT>>]
+step_K2182277 [label=<16<BR /><FONT POINT-SIZE="8">ID: K2182277</FONT><BR /><FONT POINT-SIZE="8">Parents: K2015856</FONT><BR /><FONT POINT-SIZE="8">Sons: K2350687</FONT>>]
+}
+subgraph cluster_act_273 {
+label = "Action: 273"step_K2180673 [label=<12<BR /><FONT POINT-SIZE="8">ID: K2180673</FONT><BR /><FONT POINT-SIZE="8">Parents: K2012252,K2009852</FONT><BR /><FONT POINT-SIZE="8">Sons: K2349100</FONT>>]
+step_K2181473 [label=<12<BR /><FONT POINT-SIZE="8">ID: K2181473</FONT><BR /><FONT POINT-SIZE="8">Parents: K2013854</FONT><BR /><FONT POINT-SIZE="8">Sons: K2349100</FONT>>]
+}
+subgraph cluster_act_277 {
+label = "Action: 277"step_K2183077 [label=<16<BR /><FONT POINT-SIZE="8">ID: K2183077</FONT><BR /><FONT POINT-SIZE="8">Parents: K2015458</FONT><BR /><FONT POINT-SIZE="8">Sons: K2350687</FONT>>]
+step_K2182277 [label=<16<BR /><FONT POINT-SIZE="8">ID: K2182277</FONT><BR /><FONT POINT-SIZE="8">Parents: K2015856</FONT><BR /><FONT POINT-SIZE="8">Sons: K2350687</FONT>>]
+}
+subgraph cluster_act_276 {
+label = "Action: 276"step_K2182676 [label=<15<BR /><FONT POINT-SIZE="8">ID: K2182676</FONT><BR /><FONT POINT-SIZE="8">Parents: K2015057</FONT><BR /><FONT POINT-SIZE="8">Sons: K2350295</FONT>>]
+step_K2183876 [label=<15<BR /><FONT POINT-SIZE="8">ID: K2183876</FONT><BR /><FONT POINT-SIZE="8">Parents: K2015460</FONT><BR /><FONT POINT-SIZE="8">Sons: K2350295</FONT>>]
+}
+subgraph cluster_act_272 {
+label = "Action: 272"step_K2177872 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2177872</FONT><BR /><FONT POINT-SIZE="8">Parents: K2009445</FONT><BR /><FONT POINT-SIZE="8">Sons: K2348693</FONT>>]
+step_K2180272 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2180272</FONT><BR /><FONT POINT-SIZE="8">Parents: K2011851</FONT><BR /><FONT POINT-SIZE="8">Sons: K2348693</FONT>>]
+}
+subgraph cluster_act_276 {
+label = "Action: 276"step_K2182676 [label=<15<BR /><FONT POINT-SIZE="8">ID: K2182676</FONT><BR /><FONT POINT-SIZE="8">Parents: K2015057</FONT><BR /><FONT POINT-SIZE="8">Sons: K2350295</FONT>>]
+step_K2183876 [label=<15<BR /><FONT POINT-SIZE="8">ID: K2183876</FONT><BR /><FONT POINT-SIZE="8">Parents: K2015460</FONT><BR /><FONT POINT-SIZE="8">Sons: K2350295</FONT>>]
+}
+subgraph cluster_act_269 {
+label = "Action: 269"step_K2179869 [label=<8<BR /><FONT POINT-SIZE="8">ID: K2179869</FONT><BR /><FONT POINT-SIZE="8">Parents: K2009450,K2012250</FONT><BR /><FONT POINT-SIZE="8">Sons: K2347498</FONT>>]
+step_K2179069 [label=<8<BR /><FONT POINT-SIZE="8">ID: K2179069</FONT><BR /><FONT POINT-SIZE="8">Parents: K2010648</FONT><BR /><FONT POINT-SIZE="8">Sons: K2347498</FONT>>]
+}
+subgraph cluster_act_269 {
+label = "Action: 269"step_K2179869 [label=<8<BR /><FONT POINT-SIZE="8">ID: K2179869</FONT><BR /><FONT POINT-SIZE="8">Parents: K2009450,K2012250</FONT><BR /><FONT POINT-SIZE="8">Sons: K2347498</FONT>>]
+step_K2179069 [label=<8<BR /><FONT POINT-SIZE="8">ID: K2179069</FONT><BR /><FONT POINT-SIZE="8">Parents: K2010648</FONT><BR /><FONT POINT-SIZE="8">Sons: K2347498</FONT>>]
+}
+subgraph cluster_act_270 {
+label = "Action: 270"step_K2180270 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2180270</FONT><BR /><FONT POINT-SIZE="8">Parents: K2012651</FONT><BR /><FONT POINT-SIZE="8">Sons: K2347889</FONT>>]
+step_K2177470 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2177470</FONT><BR /><FONT POINT-SIZE="8">Parents: K2009844</FONT><BR /><FONT POINT-SIZE="8">Sons: K2347889</FONT>>]
+}
+subgraph cluster_act_272 {
+label = "Action: 272"step_K2177872 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2177872</FONT><BR /><FONT POINT-SIZE="8">Parents: K2009445</FONT><BR /><FONT POINT-SIZE="8">Sons: K2348693</FONT>>]
+step_K2180272 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2180272</FONT><BR /><FONT POINT-SIZE="8">Parents: K2011851</FONT><BR /><FONT POINT-SIZE="8">Sons: K2348693</FONT>>]
+}
+subgraph cluster_act_262 {
+label = "Action: 262"step_K2179062 [label=<1<BR /><FONT POINT-SIZE="8">ID: K2179062</FONT><BR /><FONT POINT-SIZE="8">Parents: K2010648,K2011448</FONT><BR /><FONT POINT-SIZE="8">Sons: K2344684</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 13";
+        }
+
+        subgraph cluster_14 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_293 {
+label = "Action: 293"step_K2348693 [label=<12<BR /><FONT POINT-SIZE="8">ID: K2348693</FONT><BR /><FONT POINT-SIZE="8">Parents: K2177872,K2180272</FONT><BR /><FONT POINT-SIZE="8">Sons: K2517114,K2517120</FONT>>]
+}
+subgraph cluster_act_289 {
+label = "Action: 289"step_K2347889 [label=<8<BR /><FONT POINT-SIZE="8">ID: K2347889</FONT><BR /><FONT POINT-SIZE="8">Parents: K2180270,K2177470</FONT><BR /><FONT POINT-SIZE="8">Sons: K2515508,K2515518</FONT>>]
+}
+subgraph cluster_act_300 {
+label = "Action: 300"step_K2349100 [label=<19<BR /><FONT POINT-SIZE="8">ID: K2349100</FONT><BR /><FONT POINT-SIZE="8">Parents: K2180673,K2181473</FONT><BR /><FONT POINT-SIZE="8">Sons: K2519919,K2519916</FONT>>]
+}
+subgraph cluster_act_298 {
+label = "Action: 298"step_K2347498 [label=<17<BR /><FONT POINT-SIZE="8">ID: K2347498</FONT><BR /><FONT POINT-SIZE="8">Parents: K2179869,K2179069</FONT><BR /><FONT POINT-SIZE="8">Sons: K2519117,K2519119</FONT>>]
+}
+subgraph cluster_act_284 {
+label = "Action: 284"step_K2344684 [label=<3<BR /><FONT POINT-SIZE="8">ID: K2344684</FONT><BR /><FONT POINT-SIZE="8">Parents: K2179062</FONT><BR /><FONT POINT-SIZE="8">Sons: K2513505,K2513510</FONT>>]
+}
+subgraph cluster_act_295 {
+label = "Action: 295"step_K2350295 [label=<14<BR /><FONT POINT-SIZE="8">ID: K2350295</FONT><BR /><FONT POINT-SIZE="8">Parents: K2182676,K2183876</FONT><BR /><FONT POINT-SIZE="8">Sons: K2517914</FONT>>]
+}
+subgraph cluster_act_287 {
+label = "Action: 287"step_K2350687 [label=<6<BR /><FONT POINT-SIZE="8">ID: K2350687</FONT><BR /><FONT POINT-SIZE="8">Parents: K2183077,K2182277</FONT><BR /><FONT POINT-SIZE="8">Sons: K2514708</FONT>>]
+}
+subgraph cluster_act_285 {
+label = "Action: 285"step_K2345085 [label=<4<BR /><FONT POINT-SIZE="8">ID: K2345085</FONT><BR /><FONT POINT-SIZE="8">Parents: K2181463</FONT><BR /><FONT POINT-SIZE="8">Sons: K2513904,K2513912</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 14";
+        }
+
+        subgraph cluster_15 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_314 {
+label = "Action: 314"step_K2517114 [label=<13<BR /><FONT POINT-SIZE="8">ID: K2517114</FONT><BR /><FONT POINT-SIZE="8">Parents: K2348693</FONT><BR /><FONT POINT-SIZE="8">Sons: K2685523</FONT>>]
+step_K2517914 [label=<13<BR /><FONT POINT-SIZE="8">ID: K2517914</FONT><BR /><FONT POINT-SIZE="8">Parents: K2350295</FONT><BR /><FONT POINT-SIZE="8">Sons: K2685533,K2685523</FONT>>]
+}
+subgraph cluster_act_314 {
+label = "Action: 314"step_K2517114 [label=<13<BR /><FONT POINT-SIZE="8">ID: K2517114</FONT><BR /><FONT POINT-SIZE="8">Parents: K2348693</FONT><BR /><FONT POINT-SIZE="8">Sons: K2685523</FONT>>]
+step_K2517914 [label=<13<BR /><FONT POINT-SIZE="8">ID: K2517914</FONT><BR /><FONT POINT-SIZE="8">Parents: K2350295</FONT><BR /><FONT POINT-SIZE="8">Sons: K2685533,K2685523</FONT>>]
+}
+subgraph cluster_act_316 {
+label = "Action: 316"step_K2519916 [label=<15<BR /><FONT POINT-SIZE="8">ID: K2519916</FONT><BR /><FONT POINT-SIZE="8">Parents: K2349100</FONT><BR /><FONT POINT-SIZE="8">Sons: K2686337</FONT>>]
+}
+subgraph cluster_act_308 {
+label = "Action: 308"step_K2515508 [label=<7<BR /><FONT POINT-SIZE="8">ID: K2515508</FONT><BR /><FONT POINT-SIZE="8">Parents: K2347889</FONT><BR /><FONT POINT-SIZE="8">Sons: K2683122</FONT>>]
+step_K2514708 [label=<7<BR /><FONT POINT-SIZE="8">ID: K2514708</FONT><BR /><FONT POINT-SIZE="8">Parents: K2350687</FONT><BR /><FONT POINT-SIZE="8">Sons: K2683122,K2683129</FONT>>]
+}
+subgraph cluster_act_304 {
+label = "Action: 304"step_K2513904 [label=<3<BR /><FONT POINT-SIZE="8">ID: K2513904</FONT><BR /><FONT POINT-SIZE="8">Parents: K2345085</FONT><BR /><FONT POINT-SIZE="8">Sons: K2681530</FONT>>]
+}
+subgraph cluster_act_305 {
+label = "Action: 305"step_K2513505 [label=<4<BR /><FONT POINT-SIZE="8">ID: K2513505</FONT><BR /><FONT POINT-SIZE="8">Parents: K2344684</FONT><BR /><FONT POINT-SIZE="8">Sons: K2681932</FONT>>]
+}
+subgraph cluster_act_318 {
+label = "Action: 318"step_K2515518 [label=<17<BR /><FONT POINT-SIZE="8">ID: K2515518</FONT><BR /><FONT POINT-SIZE="8">Parents: K2347889</FONT><BR /><FONT POINT-SIZE="8">Sons: K2687137</FONT>>]
+}
+subgraph cluster_act_310 {
+label = "Action: 310"step_K2513510 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2513510</FONT><BR /><FONT POINT-SIZE="8">Parents: K2344684</FONT><BR /><FONT POINT-SIZE="8">Sons: K2683931</FONT>>]
+}
+subgraph cluster_act_320 {
+label = "Action: 320"step_K2517120 [label=<19<BR /><FONT POINT-SIZE="8">ID: K2517120</FONT><BR /><FONT POINT-SIZE="8">Parents: K2348693</FONT><BR /><FONT POINT-SIZE="8">Sons: K2687936</FONT>>]
+}
+subgraph cluster_act_308 {
+label = "Action: 308"step_K2515508 [label=<7<BR /><FONT POINT-SIZE="8">ID: K2515508</FONT><BR /><FONT POINT-SIZE="8">Parents: K2347889</FONT><BR /><FONT POINT-SIZE="8">Sons: K2683122</FONT>>]
+step_K2514708 [label=<7<BR /><FONT POINT-SIZE="8">ID: K2514708</FONT><BR /><FONT POINT-SIZE="8">Parents: K2350687</FONT><BR /><FONT POINT-SIZE="8">Sons: K2683122,K2683129</FONT>>]
+}
+subgraph cluster_act_319 {
+label = "Action: 319"step_K2519919 [label=<18<BR /><FONT POINT-SIZE="8">ID: K2519919</FONT><BR /><FONT POINT-SIZE="8">Parents: K2349100</FONT><BR /><FONT POINT-SIZE="8">Sons: K2687538,K2687531</FONT>>]
+step_K2519119 [label=<18<BR /><FONT POINT-SIZE="8">ID: K2519119</FONT><BR /><FONT POINT-SIZE="8">Parents: K2347498</FONT><BR /><FONT POINT-SIZE="8">Sons: K2687540,K2687531</FONT>>]
+}
+subgraph cluster_act_317 {
+label = "Action: 317"step_K2519117 [label=<16<BR /><FONT POINT-SIZE="8">ID: K2519117</FONT><BR /><FONT POINT-SIZE="8">Parents: K2347498</FONT><BR /><FONT POINT-SIZE="8">Sons: K2686736</FONT>>]
+}
+subgraph cluster_act_312 {
+label = "Action: 312"step_K2513912 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2513912</FONT><BR /><FONT POINT-SIZE="8">Parents: K2345085</FONT><BR /><FONT POINT-SIZE="8">Sons: K2684731</FONT>>]
+}
+subgraph cluster_act_319 {
+label = "Action: 319"step_K2519919 [label=<18<BR /><FONT POINT-SIZE="8">ID: K2519919</FONT><BR /><FONT POINT-SIZE="8">Parents: K2349100</FONT><BR /><FONT POINT-SIZE="8">Sons: K2687538,K2687531</FONT>>]
+step_K2519119 [label=<18<BR /><FONT POINT-SIZE="8">ID: K2519119</FONT><BR /><FONT POINT-SIZE="8">Parents: K2347498</FONT><BR /><FONT POINT-SIZE="8">Sons: K2687540,K2687531</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 15";
+        }
+
+        subgraph cluster_12 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_251 {
+label = "Action: 251"step_K2011851 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2011851</FONT><BR /><FONT POINT-SIZE="8">Parents: K1843430</FONT><BR /><FONT POINT-SIZE="8">Sons: K2180272</FONT>>]
+step_K2012651 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2012651</FONT><BR /><FONT POINT-SIZE="8">Parents: K1845032</FONT><BR /><FONT POINT-SIZE="8">Sons: K2180270</FONT>>]
+}
+subgraph cluster_act_251 {
+label = "Action: 251"step_K2011851 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2011851</FONT><BR /><FONT POINT-SIZE="8">Parents: K1843430</FONT><BR /><FONT POINT-SIZE="8">Sons: K2180272</FONT>>]
+step_K2012651 [label=<10<BR /><FONT POINT-SIZE="8">ID: K2012651</FONT><BR /><FONT POINT-SIZE="8">Parents: K1845032</FONT><BR /><FONT POINT-SIZE="8">Sons: K2180270</FONT>>]
+}
+subgraph cluster_act_256 {
+label = "Action: 256"step_K2015856 [label=<15<BR /><FONT POINT-SIZE="8">ID: K2015856</FONT><BR /><FONT POINT-SIZE="8">Parents: K1847440</FONT><BR /><FONT POINT-SIZE="8">Sons: K2182277</FONT>>]
+}
+subgraph cluster_act_252 {
+label = "Action: 252"step_K2012252 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2012252</FONT><BR /><FONT POINT-SIZE="8">Parents: K1843831,K1847431</FONT><BR /><FONT POINT-SIZE="8">Sons: K2180673</FONT>>]
+step_K2009852 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2009852</FONT><BR /><FONT POINT-SIZE="8">Parents: K1841025</FONT><BR /><FONT POINT-SIZE="8">Sons: K2180673</FONT>>]
+}
+subgraph cluster_act_250 {
+label = "Action: 250"step_K2009450 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2009450</FONT><BR /><FONT POINT-SIZE="8">Parents: K1840624</FONT><BR /><FONT POINT-SIZE="8">Sons: K2179869</FONT>>]
+step_K2012250 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2012250</FONT><BR /><FONT POINT-SIZE="8">Parents: K1844631,K1847431</FONT><BR /><FONT POINT-SIZE="8">Sons: K2179869</FONT>>]
+}
+subgraph cluster_act_245 {
+label = "Action: 245"step_K2009445 [label=<4<BR /><FONT POINT-SIZE="8">ID: K2009445</FONT><BR /><FONT POINT-SIZE="8">Parents: K1840624</FONT><BR /><FONT POINT-SIZE="8">Sons: K2177872</FONT>>]
+}
+subgraph cluster_act_254 {
+label = "Action: 254"step_K2013054 [label=<13<BR /><FONT POINT-SIZE="8">ID: K2013054</FONT><BR /><FONT POINT-SIZE="8">Parents: K1847833</FONT><BR /><FONT POINT-SIZE="8">Sons: K2181463</FONT>>]
+step_K2013854 [label=<13<BR /><FONT POINT-SIZE="8">ID: K2013854</FONT><BR /><FONT POINT-SIZE="8">Parents: K1846235</FONT><BR /><FONT POINT-SIZE="8">Sons: K2181463,K2181473</FONT>>]
+}
+subgraph cluster_act_254 {
+label = "Action: 254"step_K2013054 [label=<13<BR /><FONT POINT-SIZE="8">ID: K2013054</FONT><BR /><FONT POINT-SIZE="8">Parents: K1847833</FONT><BR /><FONT POINT-SIZE="8">Sons: K2181463</FONT>>]
+step_K2013854 [label=<13<BR /><FONT POINT-SIZE="8">ID: K2013854</FONT><BR /><FONT POINT-SIZE="8">Parents: K1846235</FONT><BR /><FONT POINT-SIZE="8">Sons: K2181463,K2181473</FONT>>]
+}
+subgraph cluster_act_244 {
+label = "Action: 244"step_K2009844 [label=<3<BR /><FONT POINT-SIZE="8">ID: K2009844</FONT><BR /><FONT POINT-SIZE="8">Parents: K1841025</FONT><BR /><FONT POINT-SIZE="8">Sons: K2177470</FONT>>]
+}
+subgraph cluster_act_258 {
+label = "Action: 258"step_K2015458 [label=<17<BR /><FONT POINT-SIZE="8">ID: K2015458</FONT><BR /><FONT POINT-SIZE="8">Parents: K1844239</FONT><BR /><FONT POINT-SIZE="8">Sons: K2183077</FONT>>]
+}
+subgraph cluster_act_250 {
+label = "Action: 250"step_K2009450 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2009450</FONT><BR /><FONT POINT-SIZE="8">Parents: K1840624</FONT><BR /><FONT POINT-SIZE="8">Sons: K2179869</FONT>>]
+step_K2012250 [label=<9<BR /><FONT POINT-SIZE="8">ID: K2012250</FONT><BR /><FONT POINT-SIZE="8">Parents: K1844631,K1847431</FONT><BR /><FONT POINT-SIZE="8">Sons: K2179869</FONT>>]
+}
+subgraph cluster_act_248 {
+label = "Action: 248"step_K2010648 [label=<7<BR /><FONT POINT-SIZE="8">ID: K2010648</FONT><BR /><FONT POINT-SIZE="8">Parents: K1846627</FONT><BR /><FONT POINT-SIZE="8">Sons: K2179062,K2179069</FONT>>]
+step_K2011448 [label=<7<BR /><FONT POINT-SIZE="8">ID: K2011448</FONT><BR /><FONT POINT-SIZE="8">Parents: K1847029</FONT><BR /><FONT POINT-SIZE="8">Sons: K2179062</FONT>>]
+}
+subgraph cluster_act_252 {
+label = "Action: 252"step_K2012252 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2012252</FONT><BR /><FONT POINT-SIZE="8">Parents: K1843831,K1847431</FONT><BR /><FONT POINT-SIZE="8">Sons: K2180673</FONT>>]
+step_K2009852 [label=<11<BR /><FONT POINT-SIZE="8">ID: K2009852</FONT><BR /><FONT POINT-SIZE="8">Parents: K1841025</FONT><BR /><FONT POINT-SIZE="8">Sons: K2180673</FONT>>]
+}
+subgraph cluster_act_257 {
+label = "Action: 257"step_K2015057 [label=<16<BR /><FONT POINT-SIZE="8">ID: K2015057</FONT><BR /><FONT POINT-SIZE="8">Parents: K1847438</FONT><BR /><FONT POINT-SIZE="8">Sons: K2182676</FONT>>]
+}
+subgraph cluster_act_248 {
+label = "Action: 248"step_K2010648 [label=<7<BR /><FONT POINT-SIZE="8">ID: K2010648</FONT><BR /><FONT POINT-SIZE="8">Parents: K1846627</FONT><BR /><FONT POINT-SIZE="8">Sons: K2179062,K2179069</FONT>>]
+step_K2011448 [label=<7<BR /><FONT POINT-SIZE="8">ID: K2011448</FONT><BR /><FONT POINT-SIZE="8">Parents: K1847029</FONT><BR /><FONT POINT-SIZE="8">Sons: K2179062</FONT>>]
+}
+subgraph cluster_act_260 {
+label = "Action: 260"step_K2015460 [label=<19<BR /><FONT POINT-SIZE="8">ID: K2015460</FONT><BR /><FONT POINT-SIZE="8">Parents: K1844239</FONT><BR /><FONT POINT-SIZE="8">Sons: K2183876</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 12";
+        }
+
+        subgraph cluster_1 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_26 {
+label = "Action: 26"step_K160026 [label=<5<BR /><FONT POINT-SIZE="8">ID: K160026</FONT><BR /><FONT POINT-SIZE="8">Parents: K1</FONT><BR /><FONT POINT-SIZE="8">Sons: K330047,K330055</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 1";
+        }
+step_K2179869 -> step_K2347498; 
+step_K330047 -> step_K498468; 
+step_K1675009 -> step_K1843430; 
+step_K1511796 -> step_K1678217; 
+step_K3021174 -> step_K3189583; 
+step_K2183876 -> step_K2350295; 
+step_K1505792 -> step_K1676611; 
+step_K2013854 -> step_K2181463; 
+step_K2855149 -> step_K3019568; 
+step_K832905 -> step_K1001732; 
+step_K1844631 -> step_K2012250; 
+step_K2686337 -> step_K2854747; 
+step_K2344684 -> step_K2513510; 
+step_K1336564 -> step_K1505385; 
+step_K832905 -> step_K1001724; 
+step_K2348693 -> step_K2517120; 
+step_K2182676 -> step_K2350295; 
+step_K1001325 -> step_K1169752; 
+step_K3021974 -> step_K3189583; 
+step_K838919 -> step_K1007331; 
+step_K1847431 -> step_K2012252; 
+step_K2180673 -> step_K2349100; 
+step_K330055 -> step_K501676; 
+step_K2015057 -> step_K2182676; 
+step_K2009445 -> step_K2177872; 
+step_K1679816 -> step_K1846235; 
+step_K1846235 -> step_K2013854; 
+step_K2517914 -> step_K2685533; 
+step_K839713 -> step_K1004934; 
+step_K836912 -> step_K1004531; 
+step_K1673812 -> step_K1844631; 
+step_K501676 -> step_K670100; 
+step_K2347889 -> step_K2515518; 
+step_K1673410 -> step_K1843831; 
+step_K2687936 -> step_K2854355; 
+step_K666889 -> step_K835318; 
+step_K2179069 -> step_K2347498; 
+step_K1007340 -> step_K1175756; 
+step_K1005734 -> step_K1173353; 
+step_K2519119 -> step_K2687531; 
+step_K1677413 -> step_K1845032; 
+step_K2855953 -> step_K3021174; 
+step_K2177872 -> step_K2348693; 
+step_K330047 -> step_K498477; 
+step_K1841025 -> step_K2009844; 
+step_K1509794 -> step_K1677403; 
+step_K838507 -> step_K1002528; 
+step_K1340980 -> step_K1511796; 
+step_K1170949 -> step_K1339378; 
+step_K1844239 -> step_K2015458; 
+step_K666882 -> step_K832504; 
+step_K3017964 -> step_K3185582; 
+step_K1509794 -> step_K1677413; 
+step_K1001724 -> step_K1169350; 
+step_K2015856 -> step_K2182277; 
+step_K1174157 -> step_K1342567; 
+step_K1001330 -> step_K1171749; 
+step_K160026 -> step_K330047; 
+step_K2350687 -> step_K2514708; 
+step_K1506588 -> step_K1675002; 
+step_K1002528 -> step_K1170949; 
+step_K3185582 -> step_K3352821; 
+step_K498468 -> step_K666882; 
+step_K836920 -> step_K1007736; 
+step_K1339378 -> step_K1510999; 
+step_K838909 -> step_K1003328; 
+step_K2683122 -> step_K2848744; 
+step_K1678616 -> step_K1846235; 
+step_K2345085 -> step_K2513904; 
+step_K839719 -> step_K1007331; 
+step_K669283 -> step_K832905; 
+step_K2349100 -> step_K2519916; 
+step_K669293 -> step_K836920; 
+step_K2687137 -> step_K2854747; 
+step_K1840624 -> step_K2009445; 
+step_K2684731 -> step_K2852350; 
+step_K1171749 -> step_K1339378; 
+step_K3019568 -> step_K3187182; 
+step_K1507398 -> step_K1679017; 
+step_K2011448 -> step_K2179062; 
+step_K3187182 -> step_K3352821; 
+step_K838919 -> step_K1007340; 
+step_K1844239 -> step_K2015460; 
+step_K670498 -> step_K838919; 
+step_K1340980 -> step_K1511799; 
+step_K2513912 -> step_K2684731; 
+step_K330055 -> step_K501674; 
+step_K1174957 -> step_K1342567; 
+step_K2013854 -> step_K2181473; 
+step_K1845032 -> step_K2012651; 
+step_K1005734 -> step_K1173343; 
+step_K1340573 -> step_K1508994; 
+step_K1841025 -> step_K2009852; 
+step_K1007736 -> step_K1174157; 
+step_K670496 -> step_K838115; 
+step_K2683129 -> step_K2851550; 
+step_K2011851 -> step_K2180272; 
+step_K2681932 -> step_K2852753; 
+step_K1679819 -> step_K1847438; 
+step_K1847029 -> step_K2011448; 
+step_K1175756 -> step_K1342175; 
+step_K2012250 -> step_K2179869; 
+step_K2852352 -> step_K3020765; 
+step_K1847438 -> step_K2015057; 
+step_K1843831 -> step_K2012252; 
+step_K2515508 -> step_K2683122; 
+step_K838115 -> step_K1005734; 
+step_K670100 -> step_K839713; 
+step_K498477 -> step_K670498; 
+step_K2182277 -> step_K2350687; 
+step_K1007338 -> step_K1174957; 
+step_K2519117 -> step_K2686736; 
+step_K670498 -> step_K838909; 
+step_K1170942 -> step_K1336564; 
+step_K1675811 -> step_K1844239; 
+step_K1505784 -> step_K1673410; 
+step_K2687531 -> step_K2852350; 
+step_K2519919 -> step_K2687531; 
+step_K2348693 -> step_K2517114; 
+step_K501674 -> step_K669293; 
+step_K1340573 -> step_K1509000; 
+step_K1511799 -> step_K1679418; 
+step_K2010648 -> step_K2179062; 
+step_K2687540 -> step_K2855953; 
+step_K2854747 -> step_K3018768; 
+step_K1336965 -> step_K1505792; 
+step_K2009852 -> step_K2180673; 
+step_K2854355 -> step_K3021974; 
+step_K1679420 -> step_K1847833; 
+step_K670097 -> step_K838507; 
+step_K1339378 -> step_K1510997; 
+step_K2515518 -> step_K2687137; 
+step_K2015458 -> step_K2183077; 
+step_K835310 -> step_K1003731; 
+step_K2517114 -> step_K2685523; 
+step_K1169752 -> step_K1340573; 
+step_K2852753 -> step_K3021174; 
+step_K2013054 -> step_K2181463; 
+step_K1007331 -> step_K1172150; 
+step_K3185983 -> step_K3353221; 
+step_K2181463 -> step_K2345085; 
+step_K670100 -> step_K839719; 
+step_K3019964 -> step_K3185582; 
+step_K1677403 -> step_K1841025; 
+step_K1172553 -> step_K1340980; 
+step_K1510999 -> step_K1679420; 
+step_K2347498 -> step_K2519119; 
+step_K2347889 -> step_K2515508; 
+step_K498477 -> step_K670496; 
+step_K1173343 -> step_K1336965; 
+step_K1004531 -> step_K1172150; 
+step_K1510997 -> step_K1678616; 
+step_K1342175 -> step_K1509794; 
+step_K2687538 -> step_K2855149; 
+step_K2180270 -> step_K2347889; 
+step_K1 -> step_K160026; 
+step_K1507388 -> step_K1675002; 
+step_K1336965 -> step_K1505784; 
+step_K2519919 -> step_K2687538; 
+step_K1003731 -> step_K1172152; 
+step_K1675002 -> step_K1840624; 
+step_K1840624 -> step_K2009450; 
+step_K501674 -> step_K669283; 
+step_K2851550 -> step_K3019964; 
+step_K2183077 -> step_K2350687; 
+step_K1678217 -> step_K1846627; 
+step_K1679019 -> step_K1847440; 
+step_K2513510 -> step_K2683931; 
+step_K160026 -> step_K330055; 
+step_K1505385 -> step_K1673812; 
+step_K666889 -> step_K835310; 
+step_K839719 -> step_K1007338; 
+step_K1172152 -> step_K1340573; 
+step_K3018768 -> step_K3187182; 
+step_K2012651 -> step_K2180270; 
+step_K501676 -> step_K670097; 
+step_K2514708 -> step_K2683129; 
+step_K832504 -> step_K1001325; 
+step_K2517914 -> step_K2685523; 
+step_K2685523 -> step_K2849145; 
+step_K1505390 -> step_K1675811; 
+step_K2513505 -> step_K2681932; 
+step_K2015460 -> step_K2183876; 
+step_K2683931 -> step_K2852352; 
+step_K3017565 -> step_K3185983; 
+step_K2009450 -> step_K2179869; 
+step_K1006937 -> step_K1174556; 
+step_K1679017 -> step_K1846627; 
+step_K2687531 -> step_K2852352; 
+step_K1679418 -> step_K1847029; 
+step_K1847440 -> step_K2015856; 
+step_K1679819 -> step_K1847431; 
+step_K1508994 -> step_K1677403; 
+step_K2848744 -> step_K3017565; 
+step_K1843430 -> step_K2011851; 
+step_K1846627 -> step_K2010648; 
+step_K1003328 -> step_K1170942; 
+step_K2344684 -> step_K2513505; 
+step_K2517120 -> step_K2687936; 
+step_K2181473 -> step_K2349100; 
+step_K1004934 -> step_K1173343; 
+step_K2180272 -> step_K2348693; 
+step_K2345085 -> step_K2513912; 
+step_K2853152 -> step_K3020765; 
+step_K832504 -> step_K1001330; 
+step_K498468 -> step_K666889; 
+step_K1002528 -> step_K1170942; 
+step_K1001732 -> step_K1172553; 
+step_K1676611 -> step_K1844239; 
+step_K2519916 -> step_K2686337; 
+step_K1172150 -> step_K1339769; 
+step_K2514708 -> step_K2683122; 
+step_K1506588 -> step_K1675009; 
+step_K1342567 -> step_K1506588; 
+step_K2350295 -> step_K2517914; 
+step_K3020765 -> step_K3185983; 
+step_K1847431 -> step_K2012250; 
+step_K2177470 -> step_K2347889; 
+step_K1169350 -> step_K1339769; 
+step_K1339769 -> step_K1507398; 
+step_K1336564 -> step_K1505390; 
+step_K1339769 -> step_K1507388; 
+step_K1509000 -> step_K1679816; 
+step_K2851949 -> step_K3019568; 
+step_K1007331 -> step_K1172152; 
+step_K2681530 -> step_K2851949; 
+step_K1847833 -> step_K2013054; 
+step_K2349100 -> step_K2519919; 
+step_K2347498 -> step_K2519117; 
+step_K2009844 -> step_K2177470; 
+step_K2012252 -> step_K2180673; 
+step_K1507398 -> step_K1679019; 
+step_K2849145 -> step_K3017964; 
+step_K835318 -> step_K1006937; 
+step_K2519119 -> step_K2687540; 
+step_K1174556 -> step_K1342175; 
+step_K3189583 -> step_K3353221; 
+step_K2513904 -> step_K2681530; 
+step_K1173353 -> step_K1340980; 
+step_K1509000 -> step_K1679819; 
+step_K2685533 -> step_K2853152; 
+step_K2010648 -> step_K2179069; 
+step_K2852350 -> step_K3019964; 
+step_K1679019 -> step_K1847431; 
+step_K2686736 -> step_K2854355; 
+step_K2179062 -> step_K2344684; 
+step_K669293 -> step_K836912; 
+}}

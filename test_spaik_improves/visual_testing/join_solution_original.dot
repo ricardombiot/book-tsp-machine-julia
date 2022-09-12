@@ -1,0 +1,205 @@
+digraph G {
+subgraph cluster_info {
+        subgraph cluster_2 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_35 {
+label = "Action: 35"step_K43811 [  label=<10<BR /><FONT POINT-SIZE="8">ID: K43811</FONT><BR /><FONT POINT-SIZE="8">Parents: K20753</FONT><BR /><FONT POINT-SIZE="8">Sons: K67150</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 2";
+        }
+
+        subgraph cluster_11 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_144 {
+label = "Action: 144"step_K246240 [  label=<11<BR /><FONT POINT-SIZE="8">ID: K246240</FONT><BR /><FONT POINT-SIZE="8">Parents: K223470</FONT><BR /><FONT POINT-SIZE="8">Sons: K269569</FONT>>]
+step_K246672 [  label=<11<BR /><FONT POINT-SIZE="8">ID: K246672</FONT><BR /><FONT POINT-SIZE="8">Parents: K223329</FONT><BR /><FONT POINT-SIZE="8">Sons: K269569</FONT>>]
+}
+subgraph cluster_act_144 {
+label = "Action: 144"step_K246240 [  label=<11<BR /><FONT POINT-SIZE="8">ID: K246240</FONT><BR /><FONT POINT-SIZE="8">Parents: K223470</FONT><BR /><FONT POINT-SIZE="8">Sons: K269569</FONT>>]
+step_K246672 [  label=<11<BR /><FONT POINT-SIZE="8">ID: K246672</FONT><BR /><FONT POINT-SIZE="8">Parents: K223329</FONT><BR /><FONT POINT-SIZE="8">Sons: K269569</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 11";
+        }
+
+        subgraph cluster_0 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_1 {
+label = "Action: 1"step_K1 [  label=<0<BR /><FONT POINT-SIZE="8">ID: K1</FONT><BR /><FONT POINT-SIZE="8">Parents: </FONT><BR /><FONT POINT-SIZE="8">Sons: K20753</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 0";
+        }
+
+        subgraph cluster_7 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_91 {
+label = "Action: 91"step_K155755 [  label=<6<BR /><FONT POINT-SIZE="8">ID: K155755</FONT><BR /><FONT POINT-SIZE="8">Parents: K134282</FONT><BR /><FONT POINT-SIZE="8">Sons: K178952</FONT>>]
+}
+subgraph cluster_act_88 {
+label = "Action: 88"step_K156616 [  label=<3<BR /><FONT POINT-SIZE="8">ID: K156616</FONT><BR /><FONT POINT-SIZE="8">Parents: K134000</FONT><BR /><FONT POINT-SIZE="8">Sons: K178518</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 7";
+        }
+
+        subgraph cluster_9 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_112 {
+label = "Action: 112"step_K201568 [  label=<3<BR /><FONT POINT-SIZE="8">ID: K201568</FONT><BR /><FONT POINT-SIZE="8">Parents: K178952</FONT><BR /><FONT POINT-SIZE="8">Sons: K223470</FONT>>]
+}
+subgraph cluster_act_111 {
+label = "Action: 111"step_K201279 [  label=<2<BR /><FONT POINT-SIZE="8">ID: K201279</FONT><BR /><FONT POINT-SIZE="8">Parents: K178518</FONT><BR /><FONT POINT-SIZE="8">Sons: K223329</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 9";
+        }
+
+        subgraph cluster_10 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_129 {
+label = "Action: 129"step_K223329 [  label=<8<BR /><FONT POINT-SIZE="8">ID: K223329</FONT><BR /><FONT POINT-SIZE="8">Parents: K201279</FONT><BR /><FONT POINT-SIZE="8">Sons: K246672</FONT>>]
+}
+subgraph cluster_act_126 {
+label = "Action: 126"step_K223470 [  label=<5<BR /><FONT POINT-SIZE="8">ID: K223470</FONT><BR /><FONT POINT-SIZE="8">Parents: K201568</FONT><BR /><FONT POINT-SIZE="8">Sons: K246240</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 10";
+        }
+
+        subgraph cluster_8 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_102 {
+label = "Action: 102"step_K178518 [  label=<5<BR /><FONT POINT-SIZE="8">ID: K178518</FONT><BR /><FONT POINT-SIZE="8">Parents: K156616</FONT><BR /><FONT POINT-SIZE="8">Sons: K201279</FONT>>]
+}
+subgraph cluster_act_104 {
+label = "Action: 104"step_K178952 [  label=<7<BR /><FONT POINT-SIZE="8">ID: K178952</FONT><BR /><FONT POINT-SIZE="8">Parents: K155755</FONT><BR /><FONT POINT-SIZE="8">Sons: K201568</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 8";
+        }
+
+        subgraph cluster_6 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_74 {
+label = "Action: 74"step_K134282 [  label=<1<BR /><FONT POINT-SIZE="8">ID: K134282</FONT><BR /><FONT POINT-SIZE="8">Parents: K110949</FONT><BR /><FONT POINT-SIZE="8">Sons: K155755</FONT>>]
+}
+subgraph cluster_act_80 {
+label = "Action: 80"step_K134000 [  label=<7<BR /><FONT POINT-SIZE="8">ID: K134000</FONT><BR /><FONT POINT-SIZE="8">Parents: K110803</FONT><BR /><FONT POINT-SIZE="8">Sons: K156616</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 6";
+        }
+
+        subgraph cluster_4 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_51 {
+label = "Action: 51"step_K89475 [  label=<2<BR /><FONT POINT-SIZE="8">ID: K89475</FONT><BR /><FONT POINT-SIZE="8">Parents: K67150</FONT><BR /><FONT POINT-SIZE="8">Sons: K110949</FONT>>]
+}
+subgraph cluster_act_50 {
+label = "Action: 50"step_K89474 [  label=<1<BR /><FONT POINT-SIZE="8">ID: K89474</FONT><BR /><FONT POINT-SIZE="8">Parents: K67150</FONT><BR /><FONT POINT-SIZE="8">Sons: K110803</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 4";
+        }
+
+        subgraph cluster_3 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_46 {
+label = "Action: 46"step_K67150 [  label=<9<BR /><FONT POINT-SIZE="8">ID: K67150</FONT><BR /><FONT POINT-SIZE="8">Parents: K43811</FONT><BR /><FONT POINT-SIZE="8">Sons: K89475,K89474</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 3";
+        }
+
+        subgraph cluster_5 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_67 {
+label = "Action: 67"step_K110803 [  label=<6<BR /><FONT POINT-SIZE="8">ID: K110803</FONT><BR /><FONT POINT-SIZE="8">Parents: K89474</FONT><BR /><FONT POINT-SIZE="8">Sons: K134000</FONT>>]
+}
+subgraph cluster_act_69 {
+label = "Action: 69"step_K110949 [  label=<8<BR /><FONT POINT-SIZE="8">ID: K110949</FONT><BR /><FONT POINT-SIZE="8">Parents: K89475</FONT><BR /><FONT POINT-SIZE="8">Sons: K134282</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 5";
+        }
+
+        subgraph cluster_12 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_145 {
+label = "Action: 145"step_K269569 [  label=<0<BR /><FONT POINT-SIZE="8">ID: K269569</FONT><BR /><FONT POINT-SIZE="8">Parents: K246240,K246672</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 12";
+        }
+
+        subgraph cluster_1 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_17 {
+label = "Action: 17"step_K20753 [  label=<4<BR /><FONT POINT-SIZE="8">ID: K20753</FONT><BR /><FONT POINT-SIZE="8">Parents: K1</FONT><BR /><FONT POINT-SIZE="8">Sons: K43811</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 1";
+        }
+step_K110949 -> step_K134282; 
+step_K223470 -> step_K246240; 
+step_K134000 -> step_K156616; 
+step_K134282 -> step_K155755; 
+step_K155755 -> step_K178952; 
+step_K246240 -> step_K269569; 
+step_K201568 -> step_K223470; 
+step_K43811 -> step_K67150; 
+step_K178952 -> step_K201568; 
+step_K20753 -> step_K43811; 
+step_K67150 -> step_K89474; 
+step_K89474 -> step_K110803; 
+step_K67150 -> step_K89475; 
+step_K201279 -> step_K223329; 
+step_K223329 -> step_K246672; 
+step_K178518 -> step_K201279; 
+step_K156616 -> step_K178518; 
+step_K89475 -> step_K110949; 
+step_K110803 -> step_K134000; 
+step_K246672 -> step_K269569; 
+step_K1 -> step_K20753; 
+}}

@@ -1,0 +1,181 @@
+digraph G {
+subgraph cluster_info {
+        subgraph cluster_0 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_1 {
+label = "Action: 1"step_K1 [label=<0<BR /><FONT POINT-SIZE="8">ID: K1</FONT><BR /><FONT POINT-SIZE="8">Parents: </FONT><BR /><FONT POINT-SIZE="8">Sons: K31,K36</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31K36 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25291K25296K25315K29499K29501 [5|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K50551K53075K54761K70740 [4|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K75811K76651K80021 [3|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K100227K101071K105281 [3|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K123803K126331K130541 [3|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K147391K151596K155801 [3|false]</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 0";
+        }
+
+        subgraph cluster_4 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_126 {
+label = "Action: 126"step_K80021 [label=<9<BR /><FONT POINT-SIZE="8">ID: K80021</FONT><BR /><FONT POINT-SIZE="8">Parents: K70740,K54761</FONT><BR /><FONT POINT-SIZE="8">Sons: K105281</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31K36 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25296K25315K29501 [3|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761K70740 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+}
+subgraph cluster_act_121 {
+label = "Action: 121"step_K75811 [label=<4<BR /><FONT POINT-SIZE="8">ID: K75811</FONT><BR /><FONT POINT-SIZE="8">Parents: K50551</FONT><BR /><FONT POINT-SIZE="8">Sons: K101071</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25291 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K50551 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K75811 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K101071 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K126331 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K151596 [1|false]</FONT>>]
+}
+subgraph cluster_act_120 {
+label = "Action: 120"step_K76651 [label=<3<BR /><FONT POINT-SIZE="8">ID: K76651</FONT><BR /><FONT POINT-SIZE="8">Parents: K53075</FONT><BR /><FONT POINT-SIZE="8">Sons: K100227</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K36 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K29499 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K53075 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K76651 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K100227 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K123803 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K147391 [1|false]</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 4";
+        }
+
+        subgraph cluster_7 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_216 {
+label = "Action: 216"step_K155801 [label=<12<BR /><FONT POINT-SIZE="8">ID: K155801</FONT><BR /><FONT POINT-SIZE="8">Parents: K130541</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31K36 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25296K25315K29501 [3|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761K70740 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+step_K151596 [label=<12<BR /><FONT POINT-SIZE="8">ID: K151596</FONT><BR /><FONT POINT-SIZE="8">Parents: K126331</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25291 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K50551 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K75811 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K101071 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K126331 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K151596 [1|false]</FONT>>]
+step_K147391 [label=<12<BR /><FONT POINT-SIZE="8">ID: K147391</FONT><BR /><FONT POINT-SIZE="8">Parents: K123803</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K36 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K29499 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K53075 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K76651 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K100227 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K123803 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K147391 [1|false]</FONT>>]
+}
+subgraph cluster_act_216 {
+label = "Action: 216"step_K155801 [label=<12<BR /><FONT POINT-SIZE="8">ID: K155801</FONT><BR /><FONT POINT-SIZE="8">Parents: K130541</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31K36 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25296K25315K29501 [3|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761K70740 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+step_K151596 [label=<12<BR /><FONT POINT-SIZE="8">ID: K151596</FONT><BR /><FONT POINT-SIZE="8">Parents: K126331</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25291 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K50551 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K75811 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K101071 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K126331 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K151596 [1|false]</FONT>>]
+step_K147391 [label=<12<BR /><FONT POINT-SIZE="8">ID: K147391</FONT><BR /><FONT POINT-SIZE="8">Parents: K123803</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K36 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K29499 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K53075 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K76651 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K100227 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K123803 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K147391 [1|false]</FONT>>]
+}
+subgraph cluster_act_216 {
+label = "Action: 216"step_K155801 [label=<12<BR /><FONT POINT-SIZE="8">ID: K155801</FONT><BR /><FONT POINT-SIZE="8">Parents: K130541</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31K36 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25296K25315K29501 [3|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761K70740 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+step_K151596 [label=<12<BR /><FONT POINT-SIZE="8">ID: K151596</FONT><BR /><FONT POINT-SIZE="8">Parents: K126331</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25291 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K50551 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K75811 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K101071 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K126331 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K151596 [1|false]</FONT>>]
+step_K147391 [label=<12<BR /><FONT POINT-SIZE="8">ID: K147391</FONT><BR /><FONT POINT-SIZE="8">Parents: K123803</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K36 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K29499 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K53075 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K76651 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K100227 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K123803 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K147391 [1|false]</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 7";
+        }
+
+        subgraph cluster_2 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_85 {
+label = "Action: 85"step_K25315 [label=<26<BR /><FONT POINT-SIZE="8">ID: K25315</FONT><BR /><FONT POINT-SIZE="8">Parents: K31</FONT><BR /><FONT POINT-SIZE="8">Sons: K70740</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25315 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K70740 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+}
+subgraph cluster_act_64 {
+label = "Action: 64"step_K29499 [label=<5<BR /><FONT POINT-SIZE="8">ID: K29499</FONT><BR /><FONT POINT-SIZE="8">Parents: K36</FONT><BR /><FONT POINT-SIZE="8">Sons: K53075</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K36 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K29499 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K53075 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K76651 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K100227 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K123803 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K147391 [1|false]</FONT>>]
+}
+subgraph cluster_act_61 {
+label = "Action: 61"step_K25291 [label=<2<BR /><FONT POINT-SIZE="8">ID: K25291</FONT><BR /><FONT POINT-SIZE="8">Parents: K31</FONT><BR /><FONT POINT-SIZE="8">Sons: K50551</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25291 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K50551 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K75811 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K101071 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K126331 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K151596 [1|false]</FONT>>]
+}
+subgraph cluster_act_66 {
+label = "Action: 66"step_K25296 [label=<7<BR /><FONT POINT-SIZE="8">ID: K25296</FONT><BR /><FONT POINT-SIZE="8">Parents: K31</FONT><BR /><FONT POINT-SIZE="8">Sons: K54761</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25296 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+step_K29501 [label=<7<BR /><FONT POINT-SIZE="8">ID: K29501</FONT><BR /><FONT POINT-SIZE="8">Parents: K36</FONT><BR /><FONT POINT-SIZE="8">Sons: K54761</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K36 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K29501 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+}
+subgraph cluster_act_66 {
+label = "Action: 66"step_K25296 [label=<7<BR /><FONT POINT-SIZE="8">ID: K25296</FONT><BR /><FONT POINT-SIZE="8">Parents: K31</FONT><BR /><FONT POINT-SIZE="8">Sons: K54761</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25296 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+step_K29501 [label=<7<BR /><FONT POINT-SIZE="8">ID: K29501</FONT><BR /><FONT POINT-SIZE="8">Parents: K36</FONT><BR /><FONT POINT-SIZE="8">Sons: K54761</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K36 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K29501 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 2";
+        }
+
+        subgraph cluster_3 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_91 {
+label = "Action: 91"step_K50551 [label=<3<BR /><FONT POINT-SIZE="8">ID: K50551</FONT><BR /><FONT POINT-SIZE="8">Parents: K25291</FONT><BR /><FONT POINT-SIZE="8">Sons: K75811</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25291 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K50551 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K75811 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K101071 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K126331 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K151596 [1|false]</FONT>>]
+}
+subgraph cluster_act_96 {
+label = "Action: 96"step_K70740 [label=<8<BR /><FONT POINT-SIZE="8">ID: K70740</FONT><BR /><FONT POINT-SIZE="8">Parents: K25315</FONT><BR /><FONT POINT-SIZE="8">Sons: K80021</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25315 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K70740 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+step_K54761 [label=<8<BR /><FONT POINT-SIZE="8">ID: K54761</FONT><BR /><FONT POINT-SIZE="8">Parents: K25296,K29501</FONT><BR /><FONT POINT-SIZE="8">Sons: K80021</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31K36 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25296K29501 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+}
+subgraph cluster_act_96 {
+label = "Action: 96"step_K70740 [label=<8<BR /><FONT POINT-SIZE="8">ID: K70740</FONT><BR /><FONT POINT-SIZE="8">Parents: K25315</FONT><BR /><FONT POINT-SIZE="8">Sons: K80021</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25315 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K70740 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+step_K54761 [label=<8<BR /><FONT POINT-SIZE="8">ID: K54761</FONT><BR /><FONT POINT-SIZE="8">Parents: K25296,K29501</FONT><BR /><FONT POINT-SIZE="8">Sons: K80021</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31K36 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25296K29501 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+}
+subgraph cluster_act_92 {
+label = "Action: 92"step_K53075 [label=<4<BR /><FONT POINT-SIZE="8">ID: K53075</FONT><BR /><FONT POINT-SIZE="8">Parents: K29499</FONT><BR /><FONT POINT-SIZE="8">Sons: K76651</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K36 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K29499 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K53075 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K76651 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K100227 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K123803 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K147391 [1|false]</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 3";
+        }
+
+        subgraph cluster_5 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_156 {
+label = "Action: 156"step_K105281 [label=<10<BR /><FONT POINT-SIZE="8">ID: K105281</FONT><BR /><FONT POINT-SIZE="8">Parents: K80021</FONT><BR /><FONT POINT-SIZE="8">Sons: K130541</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31K36 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25296K25315K29501 [3|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761K70740 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+}
+subgraph cluster_act_148 {
+label = "Action: 148"step_K100227 [label=<2<BR /><FONT POINT-SIZE="8">ID: K100227</FONT><BR /><FONT POINT-SIZE="8">Parents: K76651</FONT><BR /><FONT POINT-SIZE="8">Sons: K123803</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K36 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K29499 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K53075 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K76651 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K100227 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K123803 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K147391 [1|false]</FONT>>]
+}
+subgraph cluster_act_151 {
+label = "Action: 151"step_K101071 [label=<5<BR /><FONT POINT-SIZE="8">ID: K101071</FONT><BR /><FONT POINT-SIZE="8">Parents: K75811</FONT><BR /><FONT POINT-SIZE="8">Sons: K126331</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25291 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K50551 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K75811 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K101071 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K126331 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K151596 [1|false]</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 5";
+        }
+
+        subgraph cluster_6 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_181 {
+label = "Action: 181"step_K126331 [label=<6<BR /><FONT POINT-SIZE="8">ID: K126331</FONT><BR /><FONT POINT-SIZE="8">Parents: K101071</FONT><BR /><FONT POINT-SIZE="8">Sons: K151596</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25291 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K50551 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K75811 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K101071 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K126331 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K151596 [1|false]</FONT>>]
+}
+subgraph cluster_act_176 {
+label = "Action: 176"step_K123803 [label=<1<BR /><FONT POINT-SIZE="8">ID: K123803</FONT><BR /><FONT POINT-SIZE="8">Parents: K100227</FONT><BR /><FONT POINT-SIZE="8">Sons: K147391</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K36 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K29499 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K53075 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K76651 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K100227 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K123803 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K147391 [1|false]</FONT>>]
+}
+subgraph cluster_act_186 {
+label = "Action: 186"step_K130541 [label=<11<BR /><FONT POINT-SIZE="8">ID: K130541</FONT><BR /><FONT POINT-SIZE="8">Parents: K105281</FONT><BR /><FONT POINT-SIZE="8">Sons: K155801</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31K36 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25296K25315K29501 [3|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K54761K70740 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K80021 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K105281 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K130541 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K155801 [1|false]</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 6";
+        }
+
+        subgraph cluster_1 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_31 {
+label = "Action: 31"step_K31 [label=<1<BR /><FONT POINT-SIZE="8">ID: K31</FONT><BR /><FONT POINT-SIZE="8">Parents: K1</FONT><BR /><FONT POINT-SIZE="8">Sons: K25291,K25296,K25315</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K31 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K25291K25296K25315 [3|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K50551K54761K70740 [3|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K75811K80021 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K101071K105281 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K126331K130541 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K151596K155801 [2|false]</FONT>>]
+}
+subgraph cluster_act_36 {
+label = "Action: 36"step_K36 [label=<6<BR /><FONT POINT-SIZE="8">ID: K36</FONT><BR /><FONT POINT-SIZE="8">Parents: K1</FONT><BR /><FONT POINT-SIZE="8">Sons: K29499,K29501</FONT><BR /><FONT POINT-SIZE="8"> Km: 0: K1 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 1: K36 [1|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 2: K29499K29501 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 3: K53075K54761 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 4: K76651K80021 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 5: K100227K105281 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 6: K123803K130541 [2|false]</FONT><BR /><FONT POINT-SIZE="8"> Km: 7: K147391K155801 [2|false]</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 1";
+        }
+step_K126331 -> step_K151596; 
+step_K36 -> step_K29501; 
+step_K1 -> step_K31; 
+step_K123803 -> step_K147391; 
+step_K31 -> step_K25315; 
+step_K101071 -> step_K126331; 
+step_K53075 -> step_K76651; 
+step_K75811 -> step_K101071; 
+step_K25296 -> step_K54761; 
+step_K36 -> step_K29499; 
+step_K80021 -> step_K105281; 
+step_K25291 -> step_K50551; 
+step_K54761 -> step_K80021; 
+step_K76651 -> step_K100227; 
+step_K31 -> step_K25296; 
+step_K31 -> step_K25291; 
+step_K29499 -> step_K53075; 
+step_K1 -> step_K36; 
+step_K29501 -> step_K54761; 
+step_K70740 -> step_K80021; 
+step_K100227 -> step_K123803; 
+step_K25315 -> step_K70740; 
+step_K130541 -> step_K155801; 
+step_K105281 -> step_K130541; 
+step_K50551 -> step_K75811; 
+}}

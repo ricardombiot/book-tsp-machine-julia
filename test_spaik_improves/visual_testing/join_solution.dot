@@ -1,0 +1,101 @@
+digraph G {
+subgraph cluster_info {
+        subgraph cluster_0 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_1 {
+label = "Action: 1"step_K1 [  label=<0<BR /><FONT POINT-SIZE="8">ID: K1</FONT><BR /><FONT POINT-SIZE="8">Parents: </FONT><BR /><FONT POINT-SIZE="8">Sons: K632,K635</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 0";
+        }
+
+        subgraph cluster_4 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_22 {
+label = "Action: 22"step_K2972 [  label=<1<BR /><FONT POINT-SIZE="8">ID: K2972</FONT><BR /><FONT POINT-SIZE="8">Parents: K2194</FONT><BR /><FONT POINT-SIZE="8">Sons: K3676</FONT>>]
+}
+subgraph cluster_act_25 {
+label = "Action: 25"step_K2950 [  label=<4<BR /><FONT POINT-SIZE="8">ID: K2950</FONT><BR /><FONT POINT-SIZE="8">Parents: K2218</FONT><BR /><FONT POINT-SIZE="8">Sons: K3751</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 4";
+        }
+
+        subgraph cluster_2 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_13 {
+label = "Action: 13"step_K1488 [  label=<2<BR /><FONT POINT-SIZE="8">ID: K1488</FONT><BR /><FONT POINT-SIZE="8">Parents: K635</FONT><BR /><FONT POINT-SIZE="8">Sons: K2194</FONT>>]
+}
+subgraph cluster_act_14 {
+label = "Action: 14"step_K1414 [  label=<3<BR /><FONT POINT-SIZE="8">ID: K1414</FONT><BR /><FONT POINT-SIZE="8">Parents: K632</FONT><BR /><FONT POINT-SIZE="8">Sons: K2218</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 2";
+        }
+
+        subgraph cluster_3 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_19 {
+label = "Action: 19"step_K2194 [  label=<3<BR /><FONT POINT-SIZE="8">ID: K2194</FONT><BR /><FONT POINT-SIZE="8">Parents: K1488</FONT><BR /><FONT POINT-SIZE="8">Sons: K2972</FONT>>]
+}
+subgraph cluster_act_18 {
+label = "Action: 18"step_K2218 [  label=<2<BR /><FONT POINT-SIZE="8">ID: K2218</FONT><BR /><FONT POINT-SIZE="8">Parents: K1414</FONT><BR /><FONT POINT-SIZE="8">Sons: K2950</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 3";
+        }
+
+        subgraph cluster_5 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_26 {
+label = "Action: 26"step_K3751 [  label=<0<BR /><FONT POINT-SIZE="8">ID: K3751</FONT><BR /><FONT POINT-SIZE="8">Parents: K2950</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT>>]
+step_K3676 [  label=<0<BR /><FONT POINT-SIZE="8">ID: K3676</FONT><BR /><FONT POINT-SIZE="8">Parents: K2972</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT>>]
+}
+subgraph cluster_act_26 {
+label = "Action: 26"step_K3751 [  label=<0<BR /><FONT POINT-SIZE="8">ID: K3751</FONT><BR /><FONT POINT-SIZE="8">Parents: K2950</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT>>]
+step_K3676 [  label=<0<BR /><FONT POINT-SIZE="8">ID: K3676</FONT><BR /><FONT POINT-SIZE="8">Parents: K2972</FONT><BR /><FONT POINT-SIZE="8">Sons: </FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 5";
+        }
+
+        subgraph cluster_1 {
+        style=filled;
+        color=lightgrey;
+        node [style=filled,color=white];
+        subgraph cluster_act_7 {
+label = "Action: 7"step_K632 [  label=<1<BR /><FONT POINT-SIZE="8">ID: K632</FONT><BR /><FONT POINT-SIZE="8">Parents: K1</FONT><BR /><FONT POINT-SIZE="8">Sons: K1414</FONT>>]
+}
+subgraph cluster_act_10 {
+label = "Action: 10"step_K635 [  label=<4<BR /><FONT POINT-SIZE="8">ID: K635</FONT><BR /><FONT POINT-SIZE="8">Parents: K1</FONT><BR /><FONT POINT-SIZE="8">Sons: K1488</FONT>>]
+}
+
+        fontsize="10"
+        label = "Line 1";
+        }
+step_K1 -> step_K635; 
+step_K1414 -> step_K2218; 
+step_K1 -> step_K632; 
+step_K632 -> step_K1414; 
+step_K635 -> step_K1488; 
+step_K2194 -> step_K2972; 
+step_K1488 -> step_K2194; 
+step_K2972 -> step_K3676; 
+step_K2950 -> step_K3751; 
+step_K2218 -> step_K2950; 
+}}
